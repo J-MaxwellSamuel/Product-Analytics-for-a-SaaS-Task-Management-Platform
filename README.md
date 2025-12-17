@@ -1,83 +1,66 @@
-# Identifying the Root Cause of Slowing User Growth and Increasing churn
+# Analyzing the Causes of User Growth Slowdown and Elevated Churn
 
 ## Executive Summary
+This project provides a comprehensive analytics solution to identify the root causes behind slowing user growth and rising churn at PulseStack Technologies. Using MySQL Workbench for data cleaning and transformation and Power BI for visualization and insight generation, the project analyzes user behavior, subscriptions, engagement, and support interactions.
 
-This project provides a comprehensive solution for [brief description of what your project does]. Built with [main technologies], it offers [key benefits or features that make it valuable].
+The solution enables PulseStack’s product and leadership teams to understand who is churning, why they are churning, and where growth friction exists, allowing for data-driven product and retention strategies.
 
 ## Business Problem
-
-Many organizations struggle with [describe the problem your project solves]. This results in [consequences of the problem - inefficiency, lost revenue, poor user experience, etc.].
-
-Our solution addresses these challenges by [how your project solves the problem], enabling users to [key outcomes or improvements].
+PulseStack has experienced:
+- Slowing pace of new user growth
+- An increase in monthly churn rate
+- Declining engagement among previously active users
+  
+These challenges result in:
+- Lost recurring revenue
+- Higher customer acquisition costs
+- Reduced lifetime value (LTV)
+- Difficulty forecasting growth
+Without a unified analytical view, teams struggle to pinpoint whether churn is driven by product usability issues, pricing, onboarding gaps, feature adoption, or support experience.
 
 ## Methodology
-
 ### Approach
-
-Our development approach follows these key principles:
-
-- **Data-Driven**: Leveraging analytics and metrics to guide decisions
-- **User-Centric**: Focused on solving real user problems
-- **Scalable**: Built to grow with increasing demands
-- **Maintainable**: Clean code with comprehensive documentation
+- Data-Driven: Decisions supported by metrics like churn rate, DAU/MAU, retention cohorts
+- User-Centric: Focus on user lifecycle and experience
+- Scalable: Relational data model supporting future growth
+- Maintainable: Clean SQL transformations and documented assumptions
 
 ### Technical Stack
-
-- **Frontend**: [Technology/Framework]
-- **Backend**: [Technology/Framework]
-- **Database**: [Database System]
-- **Tools**: [Additional tools and libraries]
+- Database: MySQL (MySQL Workbench)
+- Analytics & Visualization: Power BI, DAX
+- Data Format: CSV (raw → cleaned → modeled)
+- Version Control: Git / GitHub
 
 ### Development Process
 
-1. Requirements gathering and analysis
-2. System design and architecture planning
-3. Iterative development with regular testing
-4. Deployment and monitoring
-5. Continuous improvement based on feedback
+1. Raw data ingestion (CSV)
+2. Data cleaning & normalization using SQL
+3. Relational modeling (keys, joins, constraints)
+4. KPI calculation (churn, retention, engagement)
+5. Dashboard creation and insight storytelling
 
-## Skills
+### Skills Demonstrated
 
-This project demonstrates proficiency in:
+- SQL data cleaning & transformation
+- Relational data modeling
+- Power BI dashboarding
+- KPI & churn analysis
+- Business insight communication
+- Product analytics thinking
 
-- **Programming Languages**: Python, SQL, JavaScript
-- **Data Analysis**: Power BI, Excel, DAX
-- **Database Management**: MySQL, PostgreSQL
-- **Visualization**: Power BI, Data Visualization best practices
-- **Version Control**: Git, GitHub
-- **Problem Solving**: Complex data modeling and optimization
+## Results & Business Recommendations (to be completed after analysis)
+### Key Results (Example Targets)
 
-## Results & Business Recommendation
+✅ Identified top churn drivers by plan type and tenure
 
-### Key Results
+✅ Found engagement drop-offs before churn events
 
-- ✅ [Specific measurable outcome #1]
-- ✅ [Specific measurable outcome #2]
-- ✅ [Specific measurable outcome #3]
-- ✅ [Impact on efficiency, cost savings, or performance]
+✅ Quantified revenue impact of churn
 
-### Business Recommendations
+✅ Highlighted onboarding and feature adoption gaps
 
-Based on the project findings and results:
+### Business Recommendations (Example)
 
-1. **Recommendation 1**: [Specific actionable recommendation with rationale]
-2. **Recommendation 2**: [Another recommendation based on project insights]
-3. **Recommendation 3**: [Future enhancement or strategic direction]
-
-These recommendations can help organizations [expected benefit] and achieve [desired outcome].
-
-## Next Steps
-
-### Immediate Actions
-
-- [ ] Deploy to production environment
-- [ ] Set up monitoring and alerting systems
-- [ ] Create user documentation and training materials
-- [ ] Gather initial user feedback
-
-### Future Enhancements
-
-- [ ] [Feature or improvement #1]
-- [ ] [Feature or improvement #2]
-- [ ] [Integration with other systems]
-- [ ] [Performance optimizations]
+1. Improve onboarding for users who churn within 30 days
+2. Introduce engagement nudges for low-activity teams
+3. Revisit pricing tiers with highest churn-to-LTV ratio
