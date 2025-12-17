@@ -49,18 +49,10 @@ Without a unified analytical view, teams struggle to pinpoint whether churn is d
 - Product analytics thinking
 
 ## Results & Business Recommendations (to be completed after analysis)
-### Key Results (Example Targets)
+### Key Results 
 
-✅ Identified top churn drivers by plan type and tenure
 
-✅ Found engagement drop-offs before churn events
 
-✅ Quantified revenue impact of churn
+### Business Recommendations
 
-✅ Highlighted onboarding and feature adoption gaps
 
-### Business Recommendations (Example)
-
-1. Improve onboarding for users who churn within 30 days
-2. Introduce engagement nudges for low-activity teams
-3. Revisit pricing tiers with highest churn-to-LTV ratio
