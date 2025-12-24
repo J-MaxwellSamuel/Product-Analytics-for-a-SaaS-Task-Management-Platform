@@ -1,0 +1,1126 @@
+﻿ticket_id,user_id,category,priority,status,support_channel,sentiment,assigned_agent,created_date,resolved_date,resolution_time_hours,created_at
+T00859,U000367,Bug,Urgent,resolved,email,,,2024-07-20 0:00,0000-00-00,206,2024-07-20 0:00
+T01294,U000586,Account,High,pending,Chat,,A.Smith,2023-05-31 0:00,06/01/2023,unknown,2023-05-31 0:00
+T00843,U000711,Billing,,pending,,,R.Patel,12/17/2024,,,2024-12-17 0:00
+T00069,U001360,Feature Request,High,pending,email,negative,M.Chen,05/23/2025,,unknown,2025-05-23 0:00
+T01306,U001222,Billing,Urgent,OPEN,,neutral,S.Khan,2024-11-17,,,2024-11-17 0:00
+T00036,U002237,Feature Request,Low,pending,,,,0000-00-00,2023-02-17,,2023-01-29 0:00
+T00302,u000988,Integration,low,RESOLVED,Phone,negative,,02/01/2025,0000-00-00,222,2025-02-01 0:00
+T00385,u002136,Onboarding,,closed,In-App,neutral,M.Chen,01/12/2024,01/31/2024,,2024-01-12 0:00
+T00788,U001491,Onboarding,,resolved,In-App,positive,,2024-04-12 0:00,04/21/2024,unknown,2024-04-12 0:00
+T00360,U000507,Onboarding,High,RESOLVED,Chat,neutral,A.Smith,2024-09-21,,,2024-09-21 0:00
+T00012,U002599,Feature Request,High,closed,In-App,negative,,2024-08-29,2024-09-08 0:00,,2024-08-29 0:00
+T00759,U002468,Onboarding,Low,resolved,Chat,neutral,,0000-00-00,05/01/2023,unknown,2023-04-12 0:00
+T01191,U001049,Account,,OPEN,Chat,NEGATIVE,R.Patel,2024-10-18 0:00,,,2024-10-18 0:00
+ T00380,U000847,Account,High,resolved,,positive,M.Chen,01/31/2025,,99,2025-01-31 0:00
+T01342,U002209,Other,Urgent,RESOLVED,Phone,positive,R.Patel,2025-04-24,2025-05-14,3,2025-04-24 0:00
+T00142,U001813,Billing,,open,Phone,positive,A.Smith,2023-03-30,,131,2023-03-30 0:00
+T00023,U001991,Feature Request,,OPEN,email,,J.Doe,2025-01-07,0000-00-00,,2025-01-07 0:00
+T00128,U001248,Bug,,pending,In-App,positive,M.Chen,2025-06-11 0:00,,72,2025-06-11 0:00
+T00821, U001311 ,Performance,Urgent,OPEN,In-App,neutral,S.Khan,,,,2023-02-20 0:00
+T01460,U000543,Feature Request,High,open,Phone,neutral,S.Khan,2024-06-16,2024-06-21,,2024-06-16 0:00
+T01378,U000879,Billing,Urgent,closed,,,J.Doe,,2023-08-17,unknown,2023-07-24 0:00
+T01080,U001620,Account,,RESOLVED,Phone,NEGATIVE,,2024-10-25,0000-00-00,,2024-10-25 0:00
+ T00335,U000496,Billing,Medium,open,Phone,neutral,J.Doe,0000-00-00,2025-01-06,191,2024-12-13 0:00
+T00923,U002597,Other,low,resolved,Phone,positive,,2025-04-22,,,2025-04-22 0:00
+T00019,U001952,Other,low,resolved,email,negative,,,0000-00-00,unknown,2024-01-25 0:00
+T01218,U000728,Billing,Urgent,closed,,,A.Smith,2024-03-20 0:00,04/04/2024,unknown,2024-03-20 0:00
+ T00359,u000616,Performance,low,pending,Email,neutral,M.Chen,04/24/2023,2023-05-20,,2023-04-24 0:00
+ T00778,U000197,Performance,High,OPEN,In-App,,,11/25/2023,2023-12-24,84,2023-11-25 0:00
+T00713,U002034,Onboarding,High,pending,Chat,positive,,,,,2023-05-14 0:00
+T00108,U000916,Onboarding,Urgent,open,Phone,negative,,2024-12-11,12/27/2024,,2024-12-11 0:00
+T00625,U002516,Account,Urgent,OPEN,Email,NEGATIVE,,0000-00-00,0000-00-00,124,2024-04-19 0:00
+T00841,U001710,Feature Request,Medium,OPEN,Phone,NEGATIVE,M.Chen,01/19/2025,,,2025-01-19 0:00
+T00142,U001818,Bug,Low,resolved,In-App,negative,,2025-02-07 0:00,,,2025-02-07 0:00
+T00262,U002338,Onboarding,Urgent,closed,,negative,S.Khan,0000-00-00,01/10/2024,,2024-01-10 0:00
+T00952,U001447,Billing,Medium,open,Email,positive,J.Doe,2025-03-27,,,2025-03-27 0:00
+T01413,U000966,Account,,resolved,Email,NEGATIVE,M.Chen,0000-00-00,2023-04-10 0:00,,2023-03-16 0:00
+T00370,U002317,Integration,,resolved,In-App,,R.Patel,2023-06-01,06/22/2023,,2023-06-01 0:00
+T00301,U001062,Onboarding,Urgent,pending,,positive,,0000-00-00,,unknown,2023-09-27 0:00
+T01113,u001374,Bug,low,OPEN,Phone,positive,R.Patel,2023-05-20,2023-05-25,,2023-05-20 0:00
+T00559,USR-002530,Account,Low,RESOLVED,Email,,S.Khan,2024-04-06,0000-00-00,79,2024-04-06 0:00
+T00222,U000706,Onboarding,Medium,OPEN,,positive,J.Doe,06/02/2023,0000-00-00,unknown,2023-06-02 0:00
+T00349,U000936,Bug,Low,open,Phone,NEGATIVE,,11/26/2024,0000-00-00,,2024-11-26 0:00
+T00405,U002381,Bug,,open,Phone,,M.Chen,0000-00-00,0000-00-00,,2024-04-22 0:00
+T00283,U000154,Onboarding,,pending,email,,S.Khan,0000-00-00,,,2023-06-20 0:00
+T00364,U001667,Integration,Low,OPEN,In-App,positive,A.Smith,0000-00-00,2023-03-28,188,2023-03-18 0:00
+T00864,U001515,Feature Request,Medium,RESOLVED,In-App,neutral,M.Chen,2024-12-10 0:00,2024-12-26,29,2024-12-10 0:00
+T00562,U002327,Billing,Low,pending,Phone,negative,,,2024-11-19,,2024-11-02 0:00
+T00795, U002474 ,Performance,,open,Chat,NEGATIVE,J.Doe,0000-00-00,0000-00-00,200,2024-11-15 0:00
+T01363,U000299,Feature Request,Low,open,Phone,NEGATIVE,R.Patel,0000-00-00,0000-00-00,unknown,2023-10-09 0:00
+t01089,U000014,Bug,High,pending,Chat,positive,R.Patel,2025-01-27,0000-00-00,unknown,2025-01-27 0:00
+T00406,U000118,Billing,Medium,closed,,neutral,R.Patel,2025-01-28 0:00,,,2025-01-28 0:00
+T01051,USR-000952,Performance,Low,pending,,NEGATIVE,,,,,2024-05-17 0:00
+T00918,U001900,Onboarding,High,closed,,neutral,,2024-12-23 0:00,,38,2024-12-23 0:00
+T00100,U001572,Onboarding,High,RESOLVED,Email,NEGATIVE,R.Patel,2025-03-27,04/14/2025,,2025-03-27 0:00
+T00308,U001208,Account,Urgent,closed,email,,R.Patel,2025-01-27 0:00,02/26/2025,,2025-01-27 0:00
+T00238,U000648,Integration,Low,closed,Email,,,06/25/2023,,147,2023-06-25 0:00
+T01165,U001022,Onboarding,Low,closed,,negative,,0000-00-00,2024-09-07,unknown,2024-08-25 0:00
+T00832,U001720,Onboarding,Urgent,RESOLVED,Email,,M.Chen,2023-12-03,,178,2023-12-03 0:00
+T00838,U001686,Onboarding,Urgent,RESOLVED,Phone,neutral,,,2024-03-11 0:00,183,2024-02-20 0:00
+ T00046,U001195,Other,Medium,OPEN,In-App,positive,R.Patel,2025-03-25 0:00,2025-03-29 0:00,,2025-03-25 0:00
+T00866,u002294,Bug,,pending,,positive,R.Patel,2024-06-15,2024-06-23 0:00,,2024-06-15 0:00
+ T01083,U000987,Other,Urgent,pending,Email,,A.Smith,2024-11-10 0:00,0000-00-00,unknown,2024-11-10 0:00
+T00490,U001611,Integration,Medium,OPEN,,neutral,,0000-00-00,11/13/2023,,2023-11-13 0:00
+T00939,U000024,Billing,Medium,OPEN,,neutral,,2023-05-10,2023-05-18,30,2023-05-10 0:00
+T00097,U001160,Onboarding,Medium,pending,,,M.Chen,03/04/2025,2025-03-31,168,2025-03-04 0:00
+T00934,U002091,Feature Request,Low,RESOLVED,Email,negative,S.Khan,2024-08-04,2024-08-22,unknown,2024-08-04 0:00
+T00966,U001973,Integration,Low,closed,email,,A.Smith,0000-00-00,0000-00-00,unknown,2023-03-08 0:00
+T00714,U000892,Integration,Urgent,closed,Email,negative,R.Patel,2025-01-15,,150,2025-01-15 0:00
+T00692,U002317,Billing,Urgent,open,,neutral,A.Smith,12/14/2023,0000-00-00,unknown,2023-12-14 0:00
+T00102,U000054,Account,,resolved,,negative,M.Chen,2023-01-08,0000-00-00,203,2023-01-08 0:00
+T01025,U001816,Performance,Medium,resolved,Email,,S.Khan,2023-11-01,0000-00-00,,2023-11-01 0:00
+T00571,U001177,Integration,low,pending,email,positive,S.Khan,0000-00-00,2025-06-21,unknown,2025-06-01 0:00
+T00116,U000152,Feature Request,Medium,RESOLVED,Phone,positive,R.Patel,02/02/2023,2023-02-15,97,2023-02-02 0:00
+T00227,U000721,Bug,,open,In-App,negative,R.Patel,,2025-05-15,,2025-05-06 0:00
+T00074,u002254,Onboarding,Urgent,RESOLVED,In-App,negative,,2025-05-18,2025-06-11 0:00,160,2025-05-18 0:00
+T00083,U002428,Onboarding,Urgent,closed,,,,0000-00-00,,,2024-09-16 0:00
+ T00691,U002275,Onboarding,High,closed,email,negative,M.Chen,0000-00-00,01/16/2025,10,2024-12-19 0:00
+T00750,U002374,Other,Low,RESOLVED,Chat,,A.Smith,0000-00-00,11/29/2024,9,2024-10-30 0:00
+T01083,U001399,Account,,pending,Phone,negative,,0000-00-00,,unknown,2025-04-21 0:00
+T01476,U001220,Onboarding,,RESOLVED,,NEGATIVE,,,,,2025-01-14 0:00
+T00410,U001072,Integration,Urgent,open,Email,negative,A.Smith,2024-08-31,2024-09-12,unknown,2024-08-31 0:00
+T01050,U001478,Feature Request,Low,closed,Email,,M.Chen,05/23/2024,2024-06-18 0:00,,2024-05-23 0:00
+T01323,U000849,Performance,Urgent,pending,,negative,S.Khan,2024-09-10 0:00,2024-09-29 0:00,,2024-09-10 0:00
+T00030,U001289,Billing,,open,Chat,positive,,02/25/2025,0000-00-00,,2025-02-25 0:00
+T00302,U001496,Performance,low,OPEN,Phone,negative,S.Khan,05/19/2025,05/31/2025,,2025-05-19 0:00
+T00119,U001961,Integration,Medium,closed,,,M.Chen,0000-00-00,,146,2023-09-11 0:00
+T01105,U002533,Other,Medium,closed,,,,08/27/2024,,unknown,2024-08-27 0:00
+T00524,U000488,Integration,,open,,,S.Khan,2023-05-07,05/13/2023,12,2023-05-07 0:00
+T00101,U001032,Billing,Low,RESOLVED,Chat,NEGATIVE,,2023-05-13,,,2023-05-13 0:00
+T00832,U001114,Onboarding,low,pending,email,negative,A.Smith,2023-05-04,,99,2023-05-04 0:00
+T00886,U001473,Other,Urgent,open,,,S.Khan,0000-00-00,07/07/2023,105,2023-06-13 0:00
+T00697,U002437,Billing,,OPEN,Phone,neutral,A.Smith,2023-10-09,2023-10-22,unknown,2023-10-09 0:00
+T01062,U000168,Account,,OPEN,email,positive,R.Patel,0000-00-00,2023-12-14 0:00,,2023-12-04 0:00
+T00876,USR-000903,Feature Request,Medium,open,In-App,negative,J.Doe,2025-03-30 0:00,04/01/2025,,2025-03-30 0:00
+ T00878,U000572,Feature Request,,pending,In-App,neutral,R.Patel,,,214,2024-05-17 0:00
+T00673,U002413,Account,Urgent,RESOLVED,Phone,,A.Smith,2023-02-18 0:00,03/17/2023,65,2023-02-18 0:00
+T01052,U002479,Integration,High,OPEN,,NEGATIVE,S.Khan,2025-06-12 0:00,0000-00-00,,2025-06-12 0:00
+T00092,U000915,Integration,High,pending,Phone,neutral,A.Smith,0000-00-00,,unknown,2023-04-17 0:00
+T01483,U000342,Performance,low,open,Chat,negative,S.Khan,2024-04-30 0:00,,unknown,2024-04-30 0:00
+T00239,U001104,Bug,Medium,RESOLVED,Phone,negative,,,,,2024-09-05 0:00
+T00091,U002497,Feature Request,,resolved,Email,,R.Patel,12/21/2024,01/06/2025,,2024-12-21 0:00
+T00816,U001588,Onboarding,Urgent,open,Chat,negative,A.Smith,0000-00-00,2023-03-03,,2023-03-03 0:00
+T01087,U000263,Other,,OPEN,,,R.Patel,,,,2023-05-11 0:00
+T01056,U002307,Feature Request,,open,,negative,,2024-10-01 0:00,10/30/2024,unknown,2024-10-01 0:00
+T01317,U002462,Feature Request,,pending,email,NEGATIVE,A.Smith,0000-00-00,2023-10-19 0:00,27,2023-10-01 0:00
+T01391,U002062,Performance,High,closed,,positive,J.Doe,2023-01-06,01/11/2023,,2023-01-06 0:00
+T01187,U000487,Other,,pending,Phone,negative,S.Khan,0000-00-00,,,2024-01-25 0:00
+T00443,U000865,Bug,,open,,neutral,J.Doe,2024-03-14,0000-00-00,,2024-03-14 0:00
+t00003,U000054,Billing,,pending,Chat,,S.Khan,2023-05-04,0000-00-00,unknown,2023-05-04 0:00
+T00948,u002251,Other,,OPEN,Email,negative,S.Khan,,2025-05-06 0:00,,2025-04-13 0:00
+T00247,U001403,Billing,Medium,OPEN,,,,0000-00-00,2024-12-31,,2024-12-02 0:00
+T01313,U001480,Account,,resolved,Email,,A.Smith,2023-01-13,0000-00-00,,2023-01-13 0:00
+T00023,USR-001420,Bug,Low,resolved,,negative,S.Khan,0000-00-00,2024-12-20,,2024-12-03 0:00
+T00056,U001387,Onboarding,High,open,Chat,positive,J.Doe,,0000-00-00,unknown,2024-08-04 0:00
+T00400,U002591,Account,Urgent,resolved,,neutral,,05/24/2023,2023-06-03,,2023-05-24 0:00
+T01001,U000844,Onboarding,Medium,open,email,positive,,0000-00-00,11/15/2024,124,2024-10-31 0:00
+T00990,U001944,Performance,,RESOLVED,Email,NEGATIVE,S.Khan,2023-10-15,2023-10-25,,2023-10-15 0:00
+T01329,U001710,Onboarding,High,open,,positive,S.Khan,2025-05-02,,unknown,2025-05-02 0:00
+T00477,U001466,Account,,resolved,Phone,NEGATIVE,S.Khan,2023-09-25,,unknown,2023-09-25 0:00
+T01376,U000763,Feature Request,Low,resolved,Email,negative,,,,28,2024-08-12 0:00
+T01328,U001578,Performance,Medium,OPEN,Chat,negative,J.Doe,,0000-00-00,unknown,2024-09-27 0:00
+T00767,U001805,Other,Low,RESOLVED,Email,NEGATIVE,R.Patel,2025-03-06,2025-03-17,unknown,2025-03-06 0:00
+T00304,U001042,Performance,High,pending,In-App,positive,S.Khan,2024-04-15,,unknown,2024-04-15 0:00
+T00173,U001020,Onboarding,High,pending,,negative,A.Smith,2024-12-06 0:00,2024-12-16 0:00,134,2024-12-06 0:00
+T00173,U000190,Feature Request,low,resolved,Chat,,M.Chen,2024-04-18 0:00,0000-00-00,,2024-04-18 0:00
+T01179,U000304,Bug,,RESOLVED,In-App,positive,M.Chen,2024-07-29 0:00,2024-08-21,,2024-07-29 0:00
+T00509,U000897,Onboarding,,open,,,M.Chen,0000-00-00,0000-00-00,,2024-01-04 0:00
+T00961,U000154,Performance,Low,OPEN,,NEGATIVE,,2023-02-05,2023-02-28,,2023-02-05 0:00
+ T01426,U000043,Bug,,RESOLVED,Chat,neutral,A.Smith,0000-00-00,2023-02-02,,2023-01-27 0:00
+T01082,U002175,Billing,low,pending,Phone,positive,M.Chen,2023-03-18,,,2023-03-18 0:00
+T01477,U000965,Performance,,pending,Email,neutral,S.Khan,2024-01-01,01/18/2024,,2024-01-01 0:00
+T00374,U002365,Feature Request,,OPEN,Chat,,M.Chen,0000-00-00,2024-04-27,unknown,2024-04-13 0:00
+T00709,U000029,Feature Request,,RESOLVED,,positive,M.Chen,11/26/2024,,unknown,2024-11-26 0:00
+T00951,U001071,Feature Request,,OPEN,,neutral,R.Patel,0000-00-00,2024-10-26,unknown,2024-09-30 0:00
+T01269,U000266,Performance,Low,resolved,,positive,S.Khan,2024-04-19,2024-05-12,112,2024-04-19 0:00
+ T00245,U002545,Billing,,pending,Chat,,M.Chen,2024-01-15,0000-00-00,unknown,2024-01-15 0:00
+T00269,U001532,Other,,RESOLVED,Chat,neutral,,0000-00-00,,221,2023-03-23 0:00
+t00122,U000369,Onboarding,Low,closed,,NEGATIVE,R.Patel,,0000-00-00,,2024-07-15 0:00
+T00199,U001578,Bug,Medium,OPEN,email,,S.Khan,04/19/2025,0000-00-00,,2025-04-19 0:00
+T01493,u001997,Feature Request,High,open,Email,neutral,A.Smith,2024-08-24 0:00,09/09/2024,3,2024-08-24 0:00
+ T00296,U000194,Account,Low,RESOLVED,Phone,,R.Patel,0000-00-00,2023-03-19,,2023-03-16 0:00
+T01366,U000406,Billing,Low,pending,Phone,positive,,0000-00-00,,unknown,2023-01-24 0:00
+T00096,U000152,Performance,Medium,closed,email,,S.Khan,0000-00-00,2025-05-21 0:00,unknown,2025-05-13 0:00
+T00950,U001412,Integration,,OPEN,,,A.Smith,0000-00-00,0000-00-00,unknown,2024-10-22 0:00
+T00241,U001447,Account,Medium,resolved,In-App,negative,S.Khan,0000-00-00,2023-10-30,,2023-10-13 0:00
+T00157,U001904,Billing,High,resolved,,NEGATIVE,J.Doe,11/23/2024,,unknown,2024-11-23 0:00
+T01423,U000511,Onboarding,,resolved,In-App,negative,S.Khan,2023-08-14 0:00,,unknown,2023-08-14 0:00
+T01424,U001097,Feature Request,High,open,Email,negative,S.Khan,2025-03-15 0:00,2025-04-07,,2025-03-15 0:00
+T01183,U001366,Other,Urgent,OPEN,,positive,S.Khan,,2024-05-29 0:00,228,2024-05-11 0:00
+T01441,U002377,Other,,closed,,NEGATIVE,R.Patel,0000-00-00,,,2023-09-22 0:00
+T01126,U001791,Onboarding,low,RESOLVED,,negative,,11/05/2023,0000-00-00,55,2023-11-05 0:00
+T01128,U002317,Onboarding,Urgent,pending,In-App,NEGATIVE,A.Smith,0000-00-00,,142,2023-07-14 0:00
+T00286,U001857,Onboarding,Urgent,closed,email,NEGATIVE,,0000-00-00,10/18/2024,193,2024-10-06 0:00
+T01388,u000006,Feature Request,,pending,Chat,neutral,M.Chen,2025-05-12,0000-00-00,,2025-05-12 0:00
+T01339,U001359,Billing,,pending,,,,,2023-06-11 0:00,,2023-06-05 0:00
+T00218,U001054,Performance,,resolved,In-App,neutral,M.Chen,2023-03-30 0:00,2023-04-10,112,2023-03-30 0:00
+T01389,U001758,Bug,,OPEN,email,NEGATIVE,,2023-04-14,2023-05-01 0:00,unknown,2023-04-14 0:00
+T00542,U000062,Onboarding,Low,resolved,Email,,A.Smith,2024-05-22 0:00,05/23/2024,206,2024-05-22 0:00
+T00204,U002270,Integration,High,resolved,email,neutral,J.Doe,2025-05-01 0:00,0000-00-00,,2025-05-01 0:00
+T00603,u001237,Integration,,pending,email,positive,M.Chen,0000-00-00,0000-00-00,unknown,2023-03-24 0:00
+T01348,U001634,Performance,,pending,Phone,,R.Patel,06/07/2024,0000-00-00,,2024-06-07 0:00
+T00996,U001925,Integration,Urgent,RESOLVED,email,positive,R.Patel,2024-02-27,2024-03-05,unknown,2024-02-27 0:00
+T01417,U001907,Performance,,open,,,R.Patel,02/12/2023,03/14/2023,unknown,2023-02-12 0:00
+T00177,USR-002258,Bug,Low,RESOLVED,email,,A.Smith,2023-08-16 0:00,,97,2023-08-16 0:00
+T00658,U002342,Onboarding,,OPEN,Email,NEGATIVE,M.Chen,2025-04-03,,,2025-04-03 0:00
+T00001,USR-000194,Integration,Medium,pending,Email,positive,,2024-11-26,,104,2024-11-26 0:00
+T00142,U001883,Other,,RESOLVED,Phone,negative,,2024-05-22,06/17/2024,,2024-05-22 0:00
+T00322,U001814,Onboarding,low,RESOLVED,Chat,NEGATIVE,S.Khan,0000-00-00,,84,2023-07-12 0:00
+T01421,U001816,Bug,low,open,Phone,positive,,2023-07-09,07/25/2023,,2023-07-09 0:00
+T00182,U000116,Billing,,OPEN,,neutral,A.Smith,0000-00-00,0000-00-00,,2023-02-12 0:00
+T00910,U000633,Account,,RESOLVED,,NEGATIVE,J.Doe,0000-00-00,2024-01-01 0:00,unknown,2023-12-06 0:00
+T01306,USR-001356,Onboarding,low,OPEN,Phone,neutral,S.Khan,0000-00-00,,unknown,2025-03-28 0:00
+T01051,U000364,Integration,Medium,closed,In-App,,S.Khan,0000-00-00,02/16/2024,unknown,2024-02-11 0:00
+T01316,U000801,Integration,Urgent,closed,,neutral,A.Smith,0000-00-00,2024-05-04,unknown,2024-05-01 0:00
+T00300,U000676,Feature Request,High,closed,email,NEGATIVE,J.Doe,0000-00-00,2024-12-29,,2024-12-27 0:00
+T00264,U002352,Other,Urgent,resolved,Email,,M.Chen,05/11/2025,2025-06-05,unknown,2025-05-11 0:00
+T01018,U001692,Billing,,RESOLVED,Chat,,S.Khan,,,unknown,2023-02-27 0:00
+T01095,U001970,Performance,Urgent,open,,,R.Patel,06/24/2023,2023-07-09,109,2023-06-24 0:00
+T00285,U001957,Feature Request,Medium,resolved,In-App,,,0000-00-00,,unknown,2023-10-17 0:00
+t00352,U001635,Billing,,pending,,NEGATIVE,R.Patel,0000-00-00,,117,2025-02-16 0:00
+T00346,U000208,Account,High,open,In-App,negative,A.Smith,2025-04-12 0:00,2025-04-13,,2025-04-12 0:00
+T00832,U002467,Feature Request,Urgent,OPEN,,negative,,2023-08-31,,,2023-08-31 0:00
+ T00585,U001237,Bug,,closed,,negative,,2024-06-02,2024-06-26,189,2024-06-02 0:00
+T00410,U000087,Onboarding,,resolved,,negative,A.Smith,2023-06-26,2023-06-28,,2023-06-26 0:00
+T01245,U000636,Performance,,resolved,,negative,M.Chen,0000-00-00,04/18/2024,,2024-04-08 0:00
+T00504,U000347,Other,Urgent,closed,Chat,positive,S.Khan,2024-10-23,,160,2024-10-23 0:00
+T00937,U002074,Bug,,closed,Phone,,A.Smith,2024-04-30 0:00,,unknown,2024-04-30 0:00
+T01162,U001221,Bug,,open,Chat,negative,A.Smith,2024-11-04,2024-11-08,47,2024-11-04 0:00
+T00517,U002111,Feature Request,,RESOLVED,,,J.Doe,,0000-00-00,unknown,2023-02-04 0:00
+T00244,U001602,Integration,,OPEN,,NEGATIVE,M.Chen,0000-00-00,,,2025-02-03 0:00
+T00903,U000071,Feature Request,low,OPEN,,NEGATIVE,R.Patel,0000-00-00,08/23/2024,165,2024-08-10 0:00
+T00173,U000199,Account,High,open,Chat,positive,,0000-00-00,03/23/2024,,2024-03-02 0:00
+T01089,U002267,Performance,low,RESOLVED,Email,negative,M.Chen,2023-10-04,2023-10-12,,2023-10-04 0:00
+T00149,U002446,Integration,Medium,pending,In-App,neutral,S.Khan,2025-03-09,2025-03-14 0:00,235,2025-03-09 0:00
+T00775,U001610,Account,,RESOLVED,Phone,,J.Doe,2023-04-10 0:00,2023-05-03 0:00,8,2023-04-10 0:00
+T01305,U002099,Other,High,closed,,,J.Doe,08/08/2024,0000-00-00,88,2024-08-08 0:00
+T01075,U000762,Account,High,OPEN,email,neutral,,2025-02-21,0000-00-00,142,2025-02-21 0:00
+T00738,U000419,Bug,Low,RESOLVED,In-App,,A.Smith,01/13/2025,,228,2025-01-13 0:00
+T01228,U000023,Other,,resolved,email,NEGATIVE,S.Khan,0000-00-00,2023-02-28 0:00,,2023-02-28 0:00
+T01239,U000977,Account,Low,RESOLVED,,,S.Khan,08/03/2024,,,2024-08-03 0:00
+T01166,U000528,Bug,low,open,,,A.Smith,2024-08-05 0:00,2024-09-03 0:00,,2024-08-05 0:00
+T01335,U000704,Feature Request,low,resolved,Phone,neutral,,2024-04-13,,174,2024-04-13 0:00
+t00731,U001697,Billing,Low,closed,Phone,,,0000-00-00,,,2023-07-20 0:00
+t01333,U001826,Onboarding,Urgent,closed,email,positive,M.Chen,2025-05-19,,125,2025-05-19 0:00
+T01489,U000065,Performance,,open,Chat,neutral,R.Patel,2023-04-01 0:00,,unknown,2023-04-01 0:00
+T01233,u000084,Account,High,closed,email,,R.Patel,,2023-03-21,,2023-03-02 0:00
+T00579,U000420,Feature Request,Medium,open,,,J.Doe,2025-02-10,2025-03-07,unknown,2025-02-10 0:00
+ T00231,U002455,Feature Request,Low,RESOLVED,,,R.Patel,2024-11-08,2024-11-11,unknown,2024-11-08 0:00
+T00815,U001741,Other,Low,RESOLVED,Email,positive,,,0000-00-00,unknown,2023-01-07 0:00
+T00123,U001975,Account,Low,closed,Email,neutral,J.Doe,,,8,2025-01-17 0:00
+T00181, U001345 ,Feature Request,low,pending,,NEGATIVE,M.Chen,10/31/2024,2024-11-01,239,2024-10-31 0:00
+T00842,U001586,Performance,Low,resolved,Phone,negative,A.Smith,0000-00-00,,87,2025-05-18 0:00
+T00107,U002599,Performance,Urgent,pending,In-App,NEGATIVE,S.Khan,01/29/2023,2023-02-01,unknown,2023-01-29 0:00
+T01228,U000666,Feature Request,,RESOLVED,In-App,,M.Chen,06/25/2024,06/27/2024,unknown,2024-06-25 0:00
+T00811,U001648,Bug,low,closed,In-App,positive,R.Patel,,0000-00-00,unknown,2023-05-08 0:00
+T00580,U002488,Account,Urgent,OPEN,Chat,positive,S.Khan,0000-00-00,0000-00-00,155,2024-12-27 0:00
+T01393,U000827,Account,,OPEN,Email,NEGATIVE,,2024-05-16,,unknown,2024-05-16 0:00
+T00063,U002600,Feature Request,Medium,OPEN,Chat,neutral,S.Khan,2023-09-08,2023-09-22,,2023-09-08 0:00
+T00104,USR-000499,Integration,,closed,Phone,positive,M.Chen,2024-11-11,0000-00-00,,2024-11-11 0:00
+T00170,U000127,Onboarding,Low,RESOLVED,In-App,positive,,2023-03-03,,unknown,2023-03-03 0:00
+T00804,U002215,Onboarding,Medium,closed,In-App,neutral,A.Smith,0000-00-00,0000-00-00,,2025-06-07 0:00
+T00882,U000309,Performance,,resolved,In-App,negative,A.Smith,05/09/2023,,unknown,2023-05-09 0:00
+T01201,u001948,Onboarding,Urgent,closed,In-App,neutral,M.Chen,2024-12-22,2025-01-01,,2024-12-22 0:00
+T00025,U001892,Bug,low,OPEN,email,neutral,,2023-09-28,,,2023-09-28 0:00
+T00209,U001832,Other,Medium,RESOLVED,Chat,negative,J.Doe,2024-09-29,,unknown,2024-09-29 0:00
+ T00775,U000061,Integration,High,resolved,In-App,positive,S.Khan,2024-01-07,2024-01-22 0:00,,2024-01-07 0:00
+T00736,U000170,Bug,Urgent,pending,In-App,neutral,M.Chen,2025-03-11 0:00,03/19/2025,,2025-03-11 0:00
+t00801,U002306,Onboarding,High,RESOLVED,In-App,,S.Khan,2024-05-06 0:00,2024-05-14,,2024-05-06 0:00
+T00905,U002193,Bug,Urgent,OPEN,,,M.Chen,0000-00-00,,unknown,2024-08-18 0:00
+ T00831,u001652,Billing,Medium,RESOLVED,,,J.Doe,,,,2025-04-11 0:00
+T00677,U000195,Other,low,closed,Phone,,,0000-00-00,07/20/2023,76,2023-06-23 0:00
+T00441,U001004,Performance,,open,Email,NEGATIVE,,2023-08-25 0:00,2023-09-22,149,2023-08-25 0:00
+t01185,U000202,Integration,Urgent,open,email,negative,R.Patel,2023-08-16,2023-09-11 0:00,,2023-08-16 0:00
+T01043,U000161,Feature Request,Low,closed,Chat,,J.Doe,2023-07-31,,200,2023-07-31 0:00
+T00101,U002061,Integration,low,RESOLVED,,NEGATIVE,,0000-00-00,0000-00-00,,2023-06-24 0:00
+T00415,USR-000476,Other,,closed,In-App,NEGATIVE,J.Doe,2024-07-05,0000-00-00,75,2024-07-05 0:00
+T00752,U002555,Account,low,pending,In-App,neutral,M.Chen,0000-00-00,2025-01-31,unknown,2025-01-27 0:00
+T01434,U001366,Billing,Medium,resolved,Phone,,M.Chen,2024-05-07,2024-05-19,,2024-05-07 0:00
+T01003,U000178,Billing,High,closed,Email,,M.Chen,2023-02-07,2023-02-18,unknown,2023-02-07 0:00
+T01411,U000435,Onboarding,,open,,NEGATIVE,J.Doe,0000-00-00,0000-00-00,,2025-02-14 0:00
+T00707,USR-000909,Feature Request,low,OPEN,Email,positive,R.Patel,0000-00-00,2024-10-22 0:00,,2024-09-25 0:00
+T01100,u000020,Integration,Low,resolved,Email,,A.Smith,2024-09-04 0:00,2024-09-11,,2024-09-04 0:00
+T00196,U001328,Onboarding,,closed,Phone,NEGATIVE,S.Khan,2025-02-06,,unknown,2025-02-06 0:00
+T00620,U000169,Integration,Urgent,open,,,,,,unknown,2024-11-25 0:00
+T00513,U000524,Bug,,open,Email,neutral,R.Patel,11/11/2024,2024-11-28,,2024-11-11 0:00
+T00436,U001274,Onboarding,,closed,Chat,,,0000-00-00,11/08/2024,,2024-10-20 0:00
+T01112,U000746,Billing,Low,OPEN,email,,M.Chen,2023-12-07,2023-12-31 0:00,,2023-12-07 0:00
+T00071,U000057,Integration,Urgent,resolved,,,M.Chen,2024-07-20,,,2024-07-20 0:00
+T00965,U000561,Onboarding,low,OPEN,In-App,positive,S.Khan,2024-02-15 0:00,0000-00-00,,2024-02-15 0:00
+T00580,U000165,Performance,Medium,pending,email,,J.Doe,2023-04-12 0:00,2023-05-07,115,2023-04-12 0:00
+t01295,U001275,Bug,Medium,open,,negative,M.Chen,07/07/2024,0000-00-00,,2024-07-07 0:00
+T00478,U000119,Performance,,pending,Chat,NEGATIVE,,0000-00-00,0000-00-00,62,2023-04-25 0:00
+T00302,U001606,Onboarding,High,RESOLVED,,positive,S.Khan,0000-00-00,,,2023-09-29 0:00
+T00201,U002434,Billing,Medium,open,,,,0000-00-00,,,2025-05-20 0:00
+T00492,U000684,Other,low,OPEN,email,neutral,M.Chen,0000-00-00,,94,2023-10-04 0:00
+T00082,U001892,Account,High,RESOLVED,Chat,negative,S.Khan,11/11/2023,11/14/2023,,2023-11-11 0:00
+T00576,U001938,Billing,High,pending,Chat,,A.Smith,,2023-07-22,,2023-07-12 0:00
+T00294,u000972,Onboarding,Urgent,RESOLVED,,positive,,2024-09-15 0:00,09/21/2024,,2024-09-15 0:00
+T01236,U002419,Performance,High,closed,In-App,positive,,0000-00-00,,,2024-10-18 0:00
+T01443,U001327,Integration,,pending,Chat,NEGATIVE,J.Doe,2024-01-28,,,2024-01-28 0:00
+T00083,U002136,Feature Request,Urgent,closed,Email,negative,,,2024-08-09 0:00,184,2024-08-06 0:00
+T00319,U002417,Integration,low,pending,,positive,S.Khan,2023-10-01,,,2023-10-01 0:00
+T00910,U000724,Onboarding,Urgent,OPEN,,,,0000-00-00,0000-00-00,unknown,2025-03-16 0:00
+T00910,U001460,Account,Low,open,Email,,S.Khan,2024-04-08 0:00,0000-00-00,unknown,2024-04-08 0:00
+T00374,U001622,Billing,,closed,In-App,positive,,0000-00-00,2024-08-02,228,2024-07-05 0:00
+T00275,U001340,Onboarding,,resolved,Phone,,,,05/06/2023,,2023-04-12 0:00
+T01374,U000234,Bug,,OPEN,In-App,,J.Doe,,,85,2024-08-13 0:00
+T01154,U000366,Integration,low,RESOLVED,In-App,NEGATIVE,A.Smith,0000-00-00,,,2025-06-01 0:00
+T01444,U000848,Feature Request,,resolved,Chat,,S.Khan,0000-00-00,,,2024-03-24 0:00
+T00901,U000371,Billing,Low,pending,Email,,,,,,2023-07-13 0:00
+T00375,U002558,Onboarding,low,RESOLVED,,neutral,A.Smith,10/21/2023,10/31/2023,40,2023-10-21 0:00
+T01338,U000802,Onboarding,Medium,open,,positive,,0000-00-00,09/01/2023,unknown,2023-08-28 0:00
+T01393,U002071,Performance,High,OPEN,Email,,,2023-08-11,2023-08-30,unknown,2023-08-11 0:00
+ T00450,U000920,Integration,Urgent,RESOLVED,Email,negative,M.Chen,,0000-00-00,137,2024-07-31 0:00
+T00437,U001447,Account,Low,RESOLVED,,,M.Chen,04/13/2025,05/11/2025,unknown,2025-04-13 0:00
+ T01272,U002015,Feature Request,low,resolved,email,positive,,01/19/2024,0000-00-00,,2024-01-19 0:00
+T00606,U000427,Bug,Low,OPEN,,,J.Doe,2024-11-11,2024-11-18 0:00,,2024-11-11 0:00
+T01219,U000798,Integration,High,RESOLVED,Email,negative,S.Khan,2025-05-01,,,2025-05-01 0:00
+T00586,U002483,Billing,,pending,email,,,0000-00-00,11/16/2024,,2024-11-11 0:00
+T00126,U001169,Bug,Urgent,OPEN,email,,S.Khan,12/20/2023,01/01/2024,145,2023-12-20 0:00
+T00832,U001720,Onboarding,Urgent,RESOLVED,Email,,M.Chen,2023-12-03,,178,2023-12-03 0:00
+T01167,U001208,Billing,Medium,pending,,neutral,A.Smith,2023-08-04 0:00,,110,2023-08-04 0:00
+T00064,U001193,Account,Low,pending,Email,NEGATIVE,S.Khan,05/14/2023,,140,2023-05-14 0:00
+T00604,U000856,Integration,High,open,In-App,NEGATIVE,,0000-00-00,,unknown,2025-02-17 0:00
+ T00342,U001184,Other,,pending,Phone,positive,R.Patel,,2024-01-22,unknown,2024-01-05 0:00
+T00739,U000407,Account,,closed,Phone,,A.Smith,03/24/2024,0000-00-00,,2024-03-24 0:00
+ T01072,U001035,Billing,,resolved,email,positive,,,,,2025-03-09 0:00
+T00755,U001183,Feature Request,,RESOLVED,email,negative,M.Chen,2025-02-16 0:00,02/21/2025,unknown,2025-02-16 0:00
+T00465,U002002,Feature Request,,OPEN,Email,positive,M.Chen,,05/28/2023,,2023-05-09 0:00
+T00799,U001108,Bug,,OPEN,email,negative,R.Patel,0000-00-00,04/05/2023,59,2023-03-19 0:00
+T00652,U002421,Billing,,RESOLVED,Chat,,,2025-04-18,0000-00-00,139,2025-04-18 0:00
+T01056,U001111,Bug,,open,,,A.Smith,0000-00-00,02/25/2023,65,2023-02-02 0:00
+T00952, u002165 ,Billing,low,RESOLVED,Chat,neutral,A.Smith,12/29/2024,01/11/2025,unknown,2024-12-29 0:00
+T00604,U000454,Performance,Medium,closed,,,,2024-06-20,2024-07-11 0:00,,2024-06-20 0:00
+T01472,U001950,Bug,low,closed,Chat,negative,,2025-06-16 0:00,2025-07-08,unknown,2025-06-16 0:00
+T00966,U002179,Integration,,pending,,NEGATIVE,S.Khan,2024-06-03,0000-00-00,,2024-06-03 0:00
+T00712,U001519,Billing,low,closed,,negative,S.Khan,12/10/2024,12/17/2024,,2024-12-10 0:00
+T00727,U002339,Bug,low,closed,Chat,,A.Smith,0000-00-00,2024-07-20,,2024-07-04 0:00
+T00905,U000874,Onboarding,low,pending,email,,S.Khan,2024-10-18,,,2024-10-18 0:00
+T00672,U001364,Feature Request,Medium,resolved,email,negative,J.Doe,03/31/2024,,unknown,2024-03-31 0:00
+T00286,U000404,Feature Request,Medium,OPEN,Email,NEGATIVE,A.Smith,11/22/2023,,unknown,2023-11-22 0:00
+T00909,U000321,Performance,,closed,email,,J.Doe,2024-05-07 0:00,2024-05-10 0:00,,2024-05-07 0:00
+T01471,U000794,Integration,Low,open,,neutral,,2023-03-03,,181,2023-03-03 0:00
+T00062,U000687,Billing,,RESOLVED,email,,A.Smith,11/15/2024,,186,2024-11-15 0:00
+T00813,U000735,Bug,low,RESOLVED,email,,R.Patel,04/02/2024,0000-00-00,,2024-04-02 0:00
+T00854,U001626,Bug,,OPEN,email,,M.Chen,0000-00-00,,unknown,2023-01-01 0:00
+T00467,U001483,Performance,Medium,OPEN,,,M.Chen,0000-00-00,,unknown,2024-04-05 0:00
+T01170,U002185,Performance,High,RESOLVED,,NEGATIVE,,2023-06-23,0000-00-00,,2023-06-23 0:00
+T01036,U001085,Billing,Urgent,RESOLVED,Phone,,R.Patel,01/16/2025,,170,2025-01-16 0:00
+T00071,U000051,Account,,resolved,,,S.Khan,0000-00-00,0000-00-00,,2023-04-22 0:00
+T00739,U000705,Billing,,closed,In-App,,J.Doe,0000-00-00,2023-11-04,unknown,2023-10-20 0:00
+T00917,U000021,Account,,resolved,Chat,negative,,2024-01-25,,,2024-01-25 0:00
+T00249,U002324,Integration,low,resolved,Chat,neutral,M.Chen,09/24/2023,0000-00-00,,2023-09-24 0:00
+T00879,U000503,Bug,Urgent,OPEN,Email,neutral,R.Patel,,2023-11-19 0:00,,2023-10-24 0:00
+T01007, u000593 ,Account,low,resolved,email,,,2023-02-04 0:00,,unknown,2023-02-04 0:00
+T00415,U001581,Performance,Urgent,resolved,In-App,,,10/11/2023,2023-10-31 0:00,,2023-10-11 0:00
+T00605,U001632,Bug,,OPEN,email,negative,R.Patel,0000-00-00,2023-05-19,,2023-05-18 0:00
+T01147,U001056,Onboarding,,resolved,Email,,,2024-09-08,2024-09-27,211,2024-09-08 0:00
+ T01062,U000087,Onboarding,Medium,pending,email,NEGATIVE,S.Khan,0000-00-00,2023-07-02,91,2023-06-29 0:00
+T01171,U001168,Billing,,resolved,Chat,positive,A.Smith,11/07/2023,,114,2023-11-07 0:00
+T00551,U000468,Account,Urgent,pending,email,,J.Doe,0000-00-00,,unknown,2023-03-10 0:00
+T00179,U000441,Bug,,pending,In-App,neutral,S.Khan,02/01/2023,2023-02-11,,2023-02-01 0:00
+T00056,U001107,Onboarding,,RESOLVED,In-App,positive,R.Patel,2024-04-19,,,2024-04-19 0:00
+T01258,U000570,Account,High,open,,,,02/10/2023,0000-00-00,unknown,2023-02-10 0:00
+T00003,U001436,Performance,low,RESOLVED,In-App,positive,M.Chen,2024-06-02,,,2024-06-02 0:00
+T01379,U000539,Integration,,pending,Chat,positive,A.Smith,06/13/2024,,unknown,2024-06-13 0:00
+T00621,U000376,Other,low,closed,email,,R.Patel,11/15/2024,2024-11-25 0:00,211,2024-11-15 0:00
+T00822, U000445 ,Billing,low,open,email,NEGATIVE,M.Chen,0000-00-00,,,2025-04-10 0:00
+T00669,U002413,Bug,,OPEN,,,,2024-10-27 0:00,0000-00-00,232,2024-10-27 0:00
+T00119,U000999,Performance,High,OPEN,Chat,neutral,A.Smith,0000-00-00,08/03/2024,9,2024-07-09 0:00
+t01208,U000217,Billing,Low,pending,,positive,M.Chen,05/13/2023,2023-05-24 0:00,,2023-05-13 0:00
+t00453,U000391,Feature Request,low,RESOLVED,Email,NEGATIVE,J.Doe,,,,2023-07-04 0:00
+T00254,U000630,Account,low,open,email,neutral,A.Smith,2025-03-30,2025-04-23,unknown,2025-03-30 0:00
+T00968,U002514,Other,low,OPEN,,,M.Chen,0000-00-00,08/12/2023,170,2023-07-17 0:00
+T00216,U002377,Bug,Urgent,resolved,Chat,,,2025-05-29,06/11/2025,,2025-05-29 0:00
+T01019,U000472,Bug,low,pending,Phone,NEGATIVE,R.Patel,0000-00-00,2023-07-20,,2023-06-22 0:00
+T00982,U001851,Onboarding,low,pending,Phone,negative,,2023-01-08,,,2023-01-08 0:00
+T00303,U000938,Integration,Urgent,OPEN,In-App,negative,J.Doe,2025-04-16 0:00,2025-04-21,,2025-04-16 0:00
+T01105,U000834,Integration,High,resolved,Chat,,S.Khan,,,,2023-06-17 0:00
+T00875,u001776,Other,,pending,Chat,positive,M.Chen,04/01/2024,04/12/2024,,2024-04-01 0:00
+T00884,U000937,Performance,,resolved,In-App,neutral,,2024-08-20,,108,2024-08-20 0:00
+T01182,U001085,Other,Low,open,In-App,negative,J.Doe,2023-09-17,10/14/2023,,2023-09-17 0:00
+T00029,U001709,Performance,,pending,Chat,,M.Chen,2025-01-08,02/07/2025,unknown,2025-01-08 0:00
+T00551,U002306,Other,,closed,email,,R.Patel,0000-00-00,2024-05-18 0:00,,2024-04-25 0:00
+T00678,U002442,Performance,High,closed,Email,negative,,2023-12-21 0:00,2023-12-21 0:00,18,2023-12-21 0:00
+T01203,U000893,Billing,Urgent,pending,In-App,positive,,2024-07-19 0:00,08/09/2024,10,2024-07-19 0:00
+T01427,U000845,Performance,Urgent,pending,,,M.Chen,2024-05-26 0:00,,unknown,2024-05-26 0:00
+T00935,U001345,Account,Urgent,OPEN,email,,,2025-06-05,2025-06-17 0:00,,2025-06-05 0:00
+T00145,U000119,Other,low,OPEN,Chat,neutral,J.Doe,2025-03-25,2025-03-29,,2025-03-25 0:00
+T00796,U001351,Integration,Low,RESOLVED,In-App,neutral,,0000-00-00,2025-01-22 0:00,unknown,2025-01-10 0:00
+T00431,U000417,Account,Low,open,In-App,positive,M.Chen,2023-08-29,,unknown,2023-08-29 0:00
+T00803,U001757,Integration,low,OPEN,,,S.Khan,2024-01-13,0000-00-00,168,2024-01-13 0:00
+T00028,U001634,Performance,,pending,Phone,positive,S.Khan,2024-07-02,07/18/2024,unknown,2024-07-02 0:00
+T01178,U002155,Bug,,OPEN,,neutral,A.Smith,0000-00-00,,unknown,2024-08-03 0:00
+T00662,U002179,Performance,,open,Phone,negative,S.Khan,2023-07-13,0000-00-00,12,2023-07-13 0:00
+T00401,U000336,Bug,Low,closed,Email,,,0000-00-00,,,2024-04-24 0:00
+T00570,U000499,Bug,Urgent,RESOLVED,email,,,2025-06-14 0:00,,,2025-06-14 0:00
+T00783,U001116,Billing,High,closed,Chat,,M.Chen,2023-12-06 0:00,,unknown,2023-12-06 0:00
+T01218,U002289,Bug,Medium,pending,,positive,,2024-09-19,0000-00-00,128,2024-09-19 0:00
+T00881,U001506,Onboarding,Medium,pending,email,neutral,A.Smith,03/20/2023,,unknown,2023-03-20 0:00
+T01181,U001450,Feature Request,,RESOLVED,In-App,negative,S.Khan,2025-03-13,,unknown,2025-03-13 0:00
+T00570,U002556,Other,Low,closed,,,S.Khan,2025-06-06 0:00,2025-06-14,unknown,2025-06-06 0:00
+T00512,U000427,Other,,closed,,positive,A.Smith,2023-07-26,0000-00-00,,2023-07-26 0:00
+T01349,U002259,Other,,RESOLVED,email,neutral,,2023-11-27,0000-00-00,,2023-11-27 0:00
+T00459, U000963 ,Performance,low,OPEN,,negative,A.Smith,09/14/2023,2023-09-18,,2023-09-14 0:00
+T00696,U002088,Integration,low,resolved,,positive,,2023-08-19 0:00,08/19/2023,unknown,2023-08-19 0:00
+T01115,U002550,Feature Request,Low,OPEN,,,,02/04/2024,,unknown,2024-02-04 0:00
+T01189,u000124,Other,High,RESOLVED,,,R.Patel,05/29/2023,,unknown,2023-05-29 0:00
+T00220,U002371,Feature Request,High,pending,email,,A.Smith,01/21/2024,0000-00-00,25,2024-01-21 0:00
+T00293,USR-001309,Other,High,RESOLVED,In-App,negative,M.Chen,2024-11-18 0:00,,,2024-11-18 0:00
+T01415,U002388,Onboarding,,resolved,Phone,positive,R.Patel,04/22/2025,,,2025-04-22 0:00
+T00083,U002012,Performance,,pending,Chat,negative,,0000-00-00,2024-06-28 0:00,,2024-06-17 0:00
+T00128,u001020,Account,Urgent,OPEN,,neutral,M.Chen,2025-01-27 0:00,2025-02-20,unknown,2025-01-27 0:00
+T00165, U001921 ,Feature Request,low,OPEN,Email,,A.Smith,0000-00-00,2024-11-23,182,2024-10-24 0:00
+T00602,U000365,Bug,High,resolved,In-App,,A.Smith,2024-09-11,2024-09-17 0:00,unknown,2024-09-11 0:00
+T00577,U002213,Integration,,resolved,,NEGATIVE,J.Doe,2024-03-27,,,2024-03-27 0:00
+T01013,U000416,Performance,,pending,In-App,neutral,R.Patel,2024-11-08,11/26/2024,unknown,2024-11-08 0:00
+T00999,U001262,Integration,Medium,OPEN,,,R.Patel,,2024-02-10,183,2024-01-13 0:00
+T00443,U000842,Bug,High,pending,,,S.Khan,2023-07-19 0:00,,141,2023-07-19 0:00
+T01305,U000743,Performance,low,closed,Phone,,R.Patel,2023-10-23 0:00,11/01/2023,117,2023-10-23 0:00
+T01369,U000628,Feature Request,High,resolved,Chat,NEGATIVE,R.Patel,0000-00-00,,43,2023-02-16 0:00
+T00571,U001177,Integration,low,pending,email,positive,S.Khan,0000-00-00,2025-06-21,unknown,2025-06-01 0:00
+T01035,U000654,Bug,,RESOLVED,email,,S.Khan,0000-00-00,,,2023-07-14 0:00
+T01440,U002114,Billing,Medium,RESOLVED,,,,2023-08-06,08/17/2023,,2023-08-06 0:00
+T00123,U000559,Other,Urgent,closed,,,,2025-04-28,2025-05-24 0:00,unknown,2025-04-28 0:00
+T00843,U002260,Integration,,OPEN,email,neutral,M.Chen,0000-00-00,2023-12-22,,2023-12-18 0:00
+T01324,U002282,Integration,,pending,Chat,positive,,2024-07-18,,133,2024-07-18 0:00
+T00603,u001033,Billing,low,pending,,NEGATIVE,,2024-04-15 0:00,,,2024-04-15 0:00
+T00576,U001977,Feature Request,High,closed,Chat,positive,M.Chen,2023-10-19 0:00,2023-11-02,,2023-10-19 0:00
+T00561, U002078 ,Account,,OPEN,In-App,NEGATIVE,,0000-00-00,,42,2023-08-02 0:00
+T00905,U000473,Account,High,resolved,,positive,A.Smith,12/28/2024,01/02/2025,unknown,2024-12-28 0:00
+T01342,U000172,Account,Medium,resolved,In-App,NEGATIVE,J.Doe,2024-04-16,,unknown,2024-04-16 0:00
+T00697,U002348,Onboarding,Medium,RESOLVED,Email,positive,R.Patel,0000-00-00,,,2024-10-23 0:00
+T00408,U000658,Account,Urgent,OPEN,In-App,NEGATIVE,M.Chen,2025-06-11 0:00,0000-00-00,unknown,2025-06-11 0:00
+T00189,U001583,Onboarding,,RESOLVED,In-App,,R.Patel,12/18/2023,12/26/2023,,2023-12-18 0:00
+T01386,U000126,Performance,Medium,pending,Chat,negative,,2023-09-24,,,2023-09-24 0:00
+T00828, U001417 ,Feature Request,Urgent,pending,email,,A.Smith,2024-08-16,0000-00-00,unknown,2024-08-16 0:00
+T00215,U000864,Feature Request,low,resolved,Chat,neutral,A.Smith,2025-02-17,,unknown,2025-02-17 0:00
+T00946,U000592,Performance,,pending,email,NEGATIVE,,2023-06-08,0000-00-00,,2023-06-08 0:00
+T00342,USR-000814,Onboarding,low,closed,,NEGATIVE,A.Smith,10/07/2024,2024-10-23,unknown,2024-10-07 0:00
+T00760,U000140,Performance,,open,In-App,,A.Smith,2024-11-06 0:00,,,2024-11-06 0:00
+T00318,U001599,Onboarding,High,RESOLVED,,NEGATIVE,S.Khan,0000-00-00,2025-01-17 0:00,164,2024-12-20 0:00
+T00555,U000786,Performance,High,resolved,In-App,neutral,,05/12/2024,,201,2024-05-12 0:00
+T01175,U000078,Performance,,OPEN,Email,,,2025-02-19,,,2025-02-19 0:00
+T01165,U001068,Billing,Low,open,Email,,J.Doe,2024-11-20 0:00,2024-12-02,,2024-11-20 0:00
+T00747,U001674,Bug,Urgent,OPEN,email,neutral,S.Khan,2023-12-29 0:00,0000-00-00,unknown,2023-12-29 0:00
+T01227,U001518,Performance,,pending,,neutral,A.Smith,2025-05-04,0000-00-00,,2025-05-04 0:00
+T01433,U001308,Bug,Urgent,OPEN,Email,NEGATIVE,M.Chen,2024-04-11,,,2024-04-11 0:00
+T01344,U001958,Integration,High,RESOLVED,,negative,J.Doe,2024-05-03,,106,2024-05-03 0:00
+T00422,USR-001003,Billing,,resolved,email,NEGATIVE,,0000-00-00,,unknown,2024-02-21 0:00
+T01436,U002288,Bug,,closed,In-App,negative,A.Smith,,2025-03-23 0:00,81,2025-03-23 0:00
+T01124,U000105,Integration,Medium,RESOLVED,,positive,,0000-00-00,,,2023-03-01 0:00
+T00542,U002600,Onboarding,,OPEN,email,negative,M.Chen,07/30/2024,,,2024-07-30 0:00
+T00735,U002597,Integration,High,resolved,,,J.Doe,,,,2025-06-12 0:00
+T00585,U002041,Account,Medium,pending,email,positive,M.Chen,,2024-05-11 0:00,,2024-04-27 0:00
+T00740,U000319,Performance,,RESOLVED,,NEGATIVE,A.Smith,2023-03-04,,,2023-03-04 0:00
+T00386,U001568,Other,low,open,In-App,NEGATIVE,,2023-01-08,2023-01-13 0:00,unknown,2023-01-08 0:00
+T01045, U000003 ,Other,High,open,,NEGATIVE,M.Chen,2025-03-07,0000-00-00,196,2025-03-07 0:00
+T00929,U001634,Onboarding,Low,closed,email,positive,J.Doe,0000-00-00,0000-00-00,23,2023-05-23 0:00
+T00909,U001120,Feature Request,low,RESOLVED,Chat,neutral,A.Smith,2025-04-05,2025-04-18,,2025-04-05 0:00
+T01033,U000759,Billing,,resolved,Chat,positive,,,2024-12-24,80,2024-12-17 0:00
+T00265,u001284,Performance,low,RESOLVED,,positive,J.Doe,0000-00-00,2025-03-05,234,2025-03-01 0:00
+T00639,U000057,Bug,,RESOLVED,email,,A.Smith,2024-11-06 0:00,0000-00-00,,2024-11-06 0:00
+T00740,U000791,Integration,Urgent,closed,,,J.Doe,,,unknown,2024-01-04 0:00
+T00238,U000648,Integration,Low,closed,Email,,,06/25/2023,,147,2023-06-25 0:00
+T00232,U001132,Onboarding,High,RESOLVED,Phone,neutral,,04/03/2024,04/28/2024,,2024-04-03 0:00
+T00610,U000291,Other,,open,Phone,NEGATIVE,A.Smith,0000-00-00,2024-01-08 0:00,,2023-12-17 0:00
+T00856, U002165 ,Integration,Low,closed,,,M.Chen,2024-06-02 0:00,,31,2024-06-02 0:00
+T00925,U002063,Billing,Urgent,resolved,Phone,NEGATIVE,M.Chen,01/19/2024,02/12/2024,,2024-01-19 0:00
+T01268,U001750,Onboarding,,RESOLVED,Phone,,J.Doe,05/04/2023,0000-00-00,,2023-05-04 0:00
+T00664,U001322,Other,,closed,,neutral,S.Khan,,2023-10-20 0:00,194,2023-09-30 0:00
+T00208,U001467,Onboarding,Low,RESOLVED,,negative,,01/25/2024,02/03/2024,113,2024-01-25 0:00
+T00970,U002091,Feature Request,High,open,Phone,NEGATIVE,S.Khan,2025-02-09,,162,2025-02-09 0:00
+T00279,U002599,Performance,Low,RESOLVED,Phone,negative,,2023-03-17 0:00,0000-00-00,2,2023-03-17 0:00
+T00032,U001971,Billing,,resolved,Email,,,2023-07-07,2023-07-11,unknown,2023-07-07 0:00
+T00077,U002232,Performance,low,closed,email,negative,A.Smith,,05/14/2023,,2023-04-16 0:00
+T00682,U000108,Bug,,RESOLVED,Phone,,,2024-01-18,,,2024-01-18 0:00
+T00314,U000746,Other,Low,open,,positive,J.Doe,2023-04-05,2023-05-03,unknown,2023-04-05 0:00
+T01118,U002298,Feature Request,low,OPEN,,NEGATIVE,J.Doe,,0000-00-00,,2023-06-13 0:00
+T00900,U002226,Bug,High,closed,email,negative,J.Doe,2024-02-09 0:00,,,2024-02-09 0:00
+T01014,USR-001309,Other,low,pending,email,negative,J.Doe,01/13/2025,2025-02-01,unknown,2025-01-13 0:00
+T00193,U001619,Onboarding,Urgent,resolved,Phone,,A.Smith,09/13/2023,2023-09-25,,2023-09-13 0:00
+T00650,U000706,Feature Request,,open,Chat,,,2024-01-07,2024-01-17,,2024-01-07 0:00
+T00137,U001696,Bug,High,pending,Chat,NEGATIVE,A.Smith,2024-01-04 0:00,,,2024-01-04 0:00
+T00135,U001928,Onboarding,High,open,Email,,,06/18/2023,,unknown,2023-06-18 0:00
+T00304,U001042,Performance,High,pending,In-App,positive,S.Khan,2024-04-15,,unknown,2024-04-15 0:00
+ T01427,U000799,Bug,low,closed,Chat,positive,J.Doe,2024-10-01,10/03/2024,,2024-10-01 0:00
+T00304,u001527,Integration,Low,OPEN,,neutral,S.Khan,09/15/2023,,164,2023-09-15 0:00
+T01323,U000462,Other,low,closed,Phone,,,2023-07-15,,,2023-07-15 0:00
+T00203,U002399,Onboarding,High,OPEN,email,negative,S.Khan,2023-04-02,,200,2023-04-02 0:00
+T01455,U002531,Performance,low,open,Phone,NEGATIVE,R.Patel,0000-00-00,,,2025-06-16 0:00
+T00997,U001829,Onboarding,Medium,resolved,Chat,NEGATIVE,S.Khan,0000-00-00,,unknown,2023-08-30 0:00
+T00787,u001026,Billing,Urgent,OPEN,Email,NEGATIVE,R.Patel,03/22/2023,0000-00-00,45,2023-03-22 0:00
+T01165,U000057,Bug,Low,resolved,email,,S.Khan,0000-00-00,,unknown,2024-05-28 0:00
+T01424,U000273,Other,Urgent,closed,,,J.Doe,2025-06-01 0:00,2025-06-15 0:00,unknown,2025-06-01 0:00
+T00203,U001425,Feature Request,,closed,Email,negative,S.Khan,,2024-12-12 0:00,,2024-11-30 0:00
+t00284,U002060,Performance,Urgent,resolved,Email,positive,R.Patel,,2023-03-22,,2023-03-02 0:00
+T00027,U002071,Feature Request,Medium,RESOLVED,,negative,J.Doe,08/27/2024,09/03/2024,183,2024-08-27 0:00
+T00670,U001462,Billing,High,closed,,neutral,,0000-00-00,,83,2024-12-05 0:00
+T01385,U002560,Account,High,OPEN,email,,,03/11/2024,2024-03-24,22,2024-03-11 0:00
+T00183,U002199,Other,Medium,OPEN,,,,,02/05/2024,,2024-01-24 0:00
+T01495,USR-000786,Account,Urgent,resolved,,neutral,R.Patel,0000-00-00,2025-04-30,,2025-04-05 0:00
+T00845,u002238,Performance,,open,Email,neutral,M.Chen,06/27/2023,,unknown,2023-06-27 0:00
+T00289,U002095,Onboarding,High,open,In-App,,R.Patel,2025-02-17,2025-03-04,,2025-02-17 0:00
+T01368,U000655,Integration,,open,,negative,J.Doe,2024-09-03 0:00,,unknown,2024-09-03 0:00
+T00781,U000586,Onboarding,low,pending,,negative,R.Patel,2023-10-20,0000-00-00,,2023-10-20 0:00
+T00144,U001626,Performance,Urgent,resolved,email,positive,R.Patel,2023-03-18,,,2023-03-18 0:00
+T01057,U000630,Performance,Low,closed,In-App,negative,,2023-11-06,2023-12-01,200,2023-11-06 0:00
+T00071,U002380,Onboarding,Urgent,OPEN,In-App,positive,,12/31/2024,0000-00-00,unknown,2024-12-31 0:00
+T01238,U000188,Performance,Urgent,open,email,NEGATIVE,,2023-07-17 0:00,0000-00-00,,2023-07-17 0:00
+T00095,U000934,Feature Request,Urgent,open,In-App,negative,R.Patel,08/14/2023,2023-09-08 0:00,171,2023-08-14 0:00
+t01225,U001667,Other,Low,open,Phone,NEGATIVE,,2025-04-29,,unknown,2025-04-29 0:00
+T01178,U001793,Other,Medium,pending,In-App,,,06/30/2023,2023-07-06,,2023-06-30 0:00
+T00552,U000347,Billing,,resolved,,,A.Smith,06/11/2024,0000-00-00,,2024-06-11 0:00
+T00604,U000668,Account,,open,email,NEGATIVE,,0000-00-00,,,2023-06-25 0:00
+T00199,U000965,Other,Medium,resolved,,negative,R.Patel,10/19/2023,,,2023-10-19 0:00
+T00734,U001646,Onboarding,High,resolved,Email,NEGATIVE,R.Patel,0000-00-00,12/20/2023,,2023-12-09 0:00
+T01321,U002394,Bug,Low,resolved,,positive,,0000-00-00,01/31/2023,189,2023-01-08 0:00
+T00557,U000206,Billing,Low,pending,In-App,neutral,R.Patel,2023-03-07 0:00,,,2023-03-07 0:00
+T00394,U001089,Onboarding,High,open,email,,M.Chen,2023-03-23,,,2023-03-23 0:00
+ T01004,U001905,Account,,open,Chat,,R.Patel,0000-00-00,,,2024-05-21 0:00
+T00193,U000517,Bug,Low,open,,NEGATIVE,J.Doe,2024-05-06,05/13/2024,unknown,2024-05-06 0:00
+T01249,U002122,Other,,pending,Email,NEGATIVE,J.Doe,2024-07-07,,,2024-07-07 0:00
+T01294,U000513,Integration,Low,RESOLVED,,negative,R.Patel,06/11/2024,06/15/2024,237,2024-06-11 0:00
+T00568,USR-000193,Feature Request,,RESOLVED,Chat,NEGATIVE,M.Chen,2023-09-06,2023-09-17,,2023-09-06 0:00
+T00028,U001782,Feature Request,,resolved,Email,positive,R.Patel,07/15/2023,,unknown,2023-07-15 0:00
+T00371,U001667,Bug,High,resolved,email,neutral,R.Patel,02/02/2023,0000-00-00,,2023-02-02 0:00
+T00488,u000623,Other,Medium,pending,Chat,neutral,S.Khan,0000-00-00,0000-00-00,45,2024-01-13 0:00
+T01370,U002581,Other,,RESOLVED,Email,neutral,,01/28/2025,02/08/2025,,2025-01-28 0:00
+T01188,u002219,Account,,closed,Chat,,S.Khan,2023-07-27 0:00,2023-08-05,,2023-07-27 0:00
+T00546,U000092,Feature Request,,pending,,,R.Patel,0000-00-00,0000-00-00,45,2025-02-25 0:00
+T01322,U001642,Feature Request,Urgent,resolved,Email,NEGATIVE,R.Patel,0000-00-00,,unknown,2025-06-08 0:00
+T01038,U001440,Billing,Urgent,resolved,In-App,NEGATIVE,J.Doe,,2024-04-02,,2024-03-29 0:00
+T01486,U002000,Account,,pending,Email,positive,S.Khan,2023-03-20 0:00,2023-04-08,,2023-03-20 0:00
+T01446,U000257,Other,Medium,RESOLVED,In-App,neutral,A.Smith,2024-07-01,07/13/2024,94,2024-07-01 0:00
+T01097,U001392,Integration,High,closed,Phone,,S.Khan,0000-00-00,06/02/2023,,2023-05-18 0:00
+T01241,U000042,Performance,Low,pending,Chat,positive,J.Doe,06/08/2025,2025-07-02,unknown,2025-06-08 0:00
+T00739,u001095,Other,High,pending,email,positive,M.Chen,,06/11/2024,,2024-06-07 0:00
+T00374,U000912,Other,Medium,open,email,positive,A.Smith,0000-00-00,04/30/2023,,2023-04-26 0:00
+T00258,U002597,Other,Urgent,OPEN,,,S.Khan,2024-08-22 0:00,08/26/2024,,2024-08-22 0:00
+T01186,U000950,Bug,,RESOLVED,Email,positive,R.Patel,2024-08-01,2024-08-19,unknown,2024-08-01 0:00
+T00432,U000903,Billing,Urgent,RESOLVED,Email,NEGATIVE,,,08/07/2024,unknown,2024-07-09 0:00
+T00983,U000438,Integration,,open,,NEGATIVE,R.Patel,0000-00-00,0000-00-00,unknown,2023-09-20 0:00
+T00510,U000681,Integration,,resolved,In-App,neutral,R.Patel,01/26/2025,2025-02-17,,2025-01-26 0:00
+T01029,U000970,Feature Request,Medium,OPEN,Chat,negative,,0000-00-00,,unknown,2024-08-06 0:00
+T00060,U001308,Billing,Urgent,RESOLVED,,negative,A.Smith,2024-10-13 0:00,,,2024-10-13 0:00
+T01375,U000953,Bug,Urgent,OPEN,,,A.Smith,2024-10-15,2024-10-29,,2024-10-15 0:00
+T01404,U001525,Integration,,pending,,neutral,,0000-00-00,2025-03-10 0:00,,2025-02-11 0:00
+T00601,U002171,Performance,Medium,RESOLVED,,negative,M.Chen,0000-00-00,,,2025-01-10 0:00
+T01106,U001310,Feature Request,High,pending,Phone,neutral,R.Patel,2023-05-24,,,2023-05-24 0:00
+T01329,U001668,Feature Request,Urgent,OPEN,Email,neutral,A.Smith,0000-00-00,0000-00-00,137,2024-01-31 0:00
+T01408,U000801,Other,low,pending,Phone,negative,J.Doe,0000-00-00,,,2024-07-28 0:00
+T01442,U000498,Onboarding,Medium,resolved,Phone,NEGATIVE,S.Khan,2023-12-26 0:00,2024-01-23,,2023-12-26 0:00
+T00405,U000359,Billing,,OPEN,,negative,R.Patel,2024-12-21,2025-01-05 0:00,,2024-12-21 0:00
+T00626,U001253,Performance,Medium,open,,negative,R.Patel,2023-01-19,2023-02-06,unknown,2023-01-19 0:00
+T01478,U000458,Account,,RESOLVED,Chat,NEGATIVE,S.Khan,2023-07-14,0000-00-00,150,2023-07-14 0:00
+T00004,U001684,Billing,Urgent,OPEN,,,S.Khan,2024-12-15,12/29/2024,,2024-12-15 0:00
+T01482,U001313,Performance,,pending,Chat,negative,,2023-05-21,,214,2023-05-21 0:00
+T00275,U002187,Integration,Low,resolved,Chat,neutral,M.Chen,0000-00-00,0000-00-00,195,2023-06-05 0:00
+T01084,U000111,Integration,Medium,RESOLVED,Chat,positive,A.Smith,04/16/2025,,,2025-04-16 0:00
+T00660,u000795,Feature Request,,pending,Chat,negative,R.Patel,2024-02-21,2024-03-09,,2024-02-21 0:00
+T00230,u000060,Other,,OPEN,Phone,,,2024-06-08,0000-00-00,178,2024-06-08 0:00
+T00481,U002110,Integration,High,OPEN,Email,positive,A.Smith,12/19/2024,2024-12-26,,2024-12-19 0:00
+T00902,U001321,Integration,Urgent,OPEN,,NEGATIVE,R.Patel,08/31/2023,2023-09-24 0:00,,2023-08-31 0:00
+T00791,USR-000295,Integration,Low,resolved,,negative,,03/15/2023,2023-04-07,80,2023-03-15 0:00
+T00068,U000458,Bug,low,OPEN,Phone,neutral,A.Smith,0000-00-00,,unknown,2024-12-22 0:00
+T01379,U001965,Account,Medium,open,Chat,,S.Khan,2024-05-23 0:00,,,2024-05-23 0:00
+T01038,U001169,Onboarding,low,RESOLVED,,negative,M.Chen,09/02/2024,2024-09-04 0:00,unknown,2024-09-02 0:00
+T00160,U001615,Feature Request,Medium,closed,Phone,positive,,04/08/2023,2023-04-10,173,2023-04-08 0:00
+T00354,U000590,Performance,Urgent,pending,Email,NEGATIVE,,0000-00-00,0000-00-00,,2025-04-16 0:00
+T00017,U000763,Performance,,resolved,email,NEGATIVE,,0000-00-00,2024-06-02,unknown,2024-05-29 0:00
+T00821,U002517,Integration,low,closed,Chat,,S.Khan,2025-04-21 0:00,,9,2025-04-21 0:00
+T00831,U001047,Billing,Urgent,pending,,NEGATIVE,R.Patel,2023-02-17,02/28/2023,unknown,2023-02-17 0:00
+T00878,U000111,Billing,low,pending,email,,R.Patel,2024-08-22 0:00,,,2024-08-22 0:00
+T00997,U001299,Onboarding,,RESOLVED,Phone,positive,,0000-00-00,,101,2023-07-16 0:00
+T00015,U000181,Account,Urgent,resolved,,NEGATIVE,S.Khan,2024-05-09 0:00,2024-05-19 0:00,,2024-05-09 0:00
+T01283,U002173,Account,low,resolved,In-App,neutral,R.Patel,2023-05-02,2023-05-05,,2023-05-02 0:00
+T01025,U002579,Integration,High,closed,Chat,NEGATIVE,A.Smith,0000-00-00,0000-00-00,,2025-04-07 0:00
+T00204,U001835,Account,,resolved,Chat,neutral,S.Khan,,2024-04-07 0:00,,2024-04-01 0:00
+T00746,U001067,Bug,Urgent,OPEN,Email,negative,A.Smith,0000-00-00,05/15/2024,,2024-05-14 0:00
+T00089,U001163,Other,Urgent,OPEN,Phone,,A.Smith,08/15/2023,2023-09-06 0:00,120,2023-08-15 0:00
+T00683,U001190,Billing,Medium,closed,Phone,negative,,2025-04-04,,,2025-04-04 0:00
+T00453,U000916,Feature Request,Urgent,open,Chat,,M.Chen,,0000-00-00,,2023-05-17 0:00
+T00116,U001761,Onboarding,low,pending,Email,NEGATIVE,R.Patel,0000-00-00,2024-10-10,,2024-10-07 0:00
+T01361,U000493,Billing,Urgent,OPEN,Phone,NEGATIVE,R.Patel,0000-00-00,,,2024-04-25 0:00
+T00639,U001823,Integration,,OPEN,Chat,negative,A.Smith,2024-08-08,08/21/2024,unknown,2024-08-08 0:00
+T00744,U001202,Feature Request,low,OPEN,,neutral,,2025-05-21,2025-05-29,,2025-05-21 0:00
+T01118,U002587,Onboarding,Low,open,Phone,positive,,0000-00-00,,174,2024-02-19 0:00
+T00734,U002230,Onboarding,Low,OPEN,,,J.Doe,2024-04-02,,,2024-04-02 0:00
+T00645,U001191,Feature Request,Medium,OPEN,,negative,J.Doe,2025-03-27,2025-04-15 0:00,,2025-03-27 0:00
+T01230,U001534,Other,,open,Email,NEGATIVE,,02/25/2025,2025-03-10 0:00,,2025-02-25 0:00
+T01304,U000748,Bug,Urgent,RESOLVED,Phone,NEGATIVE,J.Doe,2023-10-28 0:00,11/21/2023,unknown,2023-10-28 0:00
+T00799,U000295,Integration,,resolved,email,,,06/07/2023,,unknown,2023-06-07 0:00
+T00959,U000303,Billing,Low,pending,Email,NEGATIVE,R.Patel,0000-00-00,,218,2023-01-18 0:00
+T00406,U000775,Integration,low,open,,positive,M.Chen,2024-09-17,,,2024-09-17 0:00
+T00333,u002287,Billing,Medium,pending,email,negative,A.Smith,2023-01-05 0:00,,,2023-01-05 0:00
+T01045,U001184,Integration,Medium,closed,,NEGATIVE,S.Khan,0000-00-00,,unknown,2023-04-19 0:00
+T01354,U001052,Account,Low,resolved,Chat,NEGATIVE,R.Patel,2023-09-15,0000-00-00,29,2023-09-15 0:00
+T00904,u001510,Other,low,resolved,,negative,A.Smith,0000-00-00,2024-01-24 0:00,147,2024-01-13 0:00
+T00479,U000877,Onboarding,,RESOLVED,Phone,NEGATIVE,,,2025-06-25,82,2025-05-27 0:00
+T00105,U000525,Performance,,closed,email,positive,J.Doe,01/04/2023,01/20/2023,,2023-01-04 0:00
+T00293,U002305,Onboarding,Medium,OPEN,,NEGATIVE,S.Khan,0000-00-00,2023-06-26,unknown,2023-06-05 0:00
+T01160,U000061,Onboarding,Medium,OPEN,Email,,A.Smith,0000-00-00,,,2025-04-08 0:00
+T01343,U002107,Billing,,RESOLVED,Email,,,05/05/2025,05/07/2025,,2025-05-05 0:00
+T01144,u000303,Feature Request,low,resolved,Chat,NEGATIVE,S.Khan,10/19/2024,,unknown,2024-10-19 0:00
+T00977,u001670,Feature Request,,pending,Email,,A.Smith,,0000-00-00,,2023-04-01 0:00
+T00852,U002166,Bug,Urgent,OPEN,,neutral,M.Chen,,10/16/2023,,2023-10-12 0:00
+T01126,U002209,Feature Request,Medium,pending,email,,,2024-05-19,0000-00-00,unknown,2024-05-19 0:00
+T01074,U002352,Performance,,OPEN,Email,positive,J.Doe,2023-12-27,2024-01-25,,2023-12-27 0:00
+T00215,u000181,Bug,low,closed,Chat,,A.Smith,2024-07-13,0000-00-00,,2024-07-13 0:00
+T00987,U000073,Account,Urgent,OPEN,email,,,2024-07-03,,unknown,2024-07-03 0:00
+T01429,U001691,Performance,Low,closed,,positive,A.Smith,2023-07-04,2023-07-15,unknown,2023-07-04 0:00
+T00789,U000847,Integration,Low,OPEN,,positive,J.Doe,2025-03-27 0:00,04/15/2025,,2025-03-27 0:00
+T00944,U000446,Onboarding,Medium,OPEN,email,,R.Patel,2025-01-18,,181,2025-01-18 0:00
+T00829,U000756,Feature Request,High,OPEN,,NEGATIVE,A.Smith,0000-00-00,08/26/2023,,2023-08-07 0:00
+T01130,U001326,Bug,low,RESOLVED,email,negative,S.Khan,2024-12-07,,,2024-12-07 0:00
+T01279,U001762,Other,Low,resolved,Phone,positive,J.Doe,2023-02-23,0000-00-00,,2023-02-23 0:00
+T01309,U001133,Integration,Urgent,RESOLVED,Phone,negative,,0000-00-00,2024-11-17,unknown,2024-10-30 0:00
+T00587,U001914,Billing,low,OPEN,In-App,,,01/07/2025,01/24/2025,,2025-01-07 0:00
+T00487,U001309,Bug,Urgent,open,Chat,,M.Chen,10/20/2023,2023-11-12 0:00,unknown,2023-10-20 0:00
+T00941,USR-002415,Billing,Urgent,OPEN,Phone,,,2023-12-13 0:00,2023-12-26,,2023-12-13 0:00
+T01291,U001170,Integration,Urgent,pending,,,,0000-00-00,,,2023-01-04 0:00
+T01380,U000994,Other,Medium,open,email,positive,A.Smith,0000-00-00,,unknown,2024-09-30 0:00
+T00610,U002503,Onboarding,Urgent,open,email,negative,R.Patel,03/18/2025,0000-00-00,,2025-03-18 0:00
+T00395,U001797,Account,Medium,resolved,Phone,,,2023-02-07 0:00,2023-02-26,16,2023-02-07 0:00
+T00802,U002186,Account,Urgent,OPEN,email,neutral,R.Patel,0000-00-00,,,2023-01-24 0:00
+ T00347,U000948,Integration,low,OPEN,Chat,NEGATIVE,R.Patel,2023-01-08,,,2023-01-08 0:00
+T00259,U000405,Performance,High,resolved,Phone,negative,S.Khan,0000-00-00,2023-01-16 0:00,148,2023-01-08 0:00
+T01194,U000953,Performance,High,OPEN,,NEGATIVE,,2024-07-11,,129,2024-07-11 0:00
+T00882,U001365,Account,Medium,resolved,Chat,positive,,2023-11-15,,,2023-11-15 0:00
+T00961,u001155,Feature Request,Low,pending,,neutral,,,05/26/2025,,2025-04-29 0:00
+T01308,U000661,Other,Low,open,In-App,NEGATIVE,R.Patel,0000-00-00,,,2025-03-02 0:00
+T01207,u001531,Other,Medium,RESOLVED,email,negative,S.Khan,09/08/2023,09/19/2023,,2023-09-08 0:00
+T00607,u001528,Billing,Low,pending,email,NEGATIVE,J.Doe,2023-05-21 0:00,06/13/2023,unknown,2023-05-21 0:00
+T01483,U000724,Account,Urgent,resolved,,,J.Doe,01/27/2023,2023-02-03,,2023-01-27 0:00
+T00215,U001859,Account,low,closed,Chat,,A.Smith,0000-00-00,,unknown,2023-02-11 0:00
+T00850, U000869 ,Performance,,RESOLVED,,,A.Smith,2023-01-07,2023-01-10,223,2023-01-07 0:00
+T00992,U002418,Account,Medium,open,Chat,,,2023-12-31,01/26/2024,unknown,2023-12-31 0:00
+T00356,U001113,Integration,High,open,,positive,J.Doe,07/15/2023,,,2023-07-15 0:00
+T00075,U001811,Account,low,closed,Chat,positive,S.Khan,07/15/2023,0000-00-00,,2023-07-15 0:00
+T01224,U001262,Integration,,open,Email,,S.Khan,2024-04-15,,,2024-04-15 0:00
+T00117,U000550,Onboarding,High,RESOLVED,Email,,,0000-00-00,10/21/2024,,2024-09-23 0:00
+T01362,U002199,Feature Request,low,resolved,In-App,neutral,S.Khan,2023-02-20,2023-03-09,,2023-02-20 0:00
+T00797,U001908,Bug,,pending,In-App,positive,R.Patel,2023-11-05,,,2023-11-05 0:00
+T00889,U001551,Integration,Medium,closed,,neutral,J.Doe,,0000-00-00,178,2023-07-08 0:00
+T01423,U001470,Integration,Medium,resolved,In-App,NEGATIVE,J.Doe,2024-10-19 0:00,,,2024-10-19 0:00
+T00299,U000774,Performance,High,open,In-App,positive,,,,44,2025-03-12 0:00
+T00935,U000629,Bug,,OPEN,Chat,,,0000-00-00,,35,2024-12-29 0:00
+T01142,U001335,Other,,closed,email,,S.Khan,2024-08-29,,,2024-08-29 0:00
+T00128,U002222,Other,Medium,closed,Chat,,S.Khan,,,unknown,2024-12-12 0:00
+T00838,U001820,Integration,,open,Email,positive,A.Smith,2024-02-06,2024-02-09,unknown,2024-02-06 0:00
+T00984,U001145,Bug,low,closed,Email,,A.Smith,2023-03-19 0:00,2023-03-23,,2023-03-19 0:00
+T00901,U000441,Feature Request,Urgent,RESOLVED,,NEGATIVE,M.Chen,2024-08-23,2024-08-23,223,2024-08-23 0:00
+T00148,U001332,Performance,Low,OPEN,,,R.Patel,06/17/2023,,209,2023-06-17 0:00
+T00919,U000856,Integration,Urgent,RESOLVED,,,,05/30/2024,2024-06-08,,2024-05-30 0:00
+T00101,U001845,Onboarding,Low,closed,In-App,,A.Smith,2024-02-29,2024-03-21,unknown,2024-02-29 0:00
+T01190,usr-000771,Performance,low,resolved,Email,,A.Smith,10/16/2024,2024-10-23 0:00,145,2024-10-16 0:00
+T00236,U000389,Integration,Urgent,RESOLVED,email,,M.Chen,2025-06-08 0:00,2025-06-11 0:00,144,2025-06-08 0:00
+T00777,U001969,Billing,Medium,pending,In-App,positive,A.Smith,07/09/2023,07/20/2023,204,2023-07-09 0:00
+T00833,U001489,Other,low,pending,,NEGATIVE,M.Chen,0000-00-00,2023-09-13 0:00,,2023-08-27 0:00
+T00247,U001968,Onboarding,low,OPEN,,neutral,A.Smith,2024-09-11,,,2024-09-11 0:00
+T00506,U001356,Other,High,open,In-App,,S.Khan,0000-00-00,2023-05-16,,2023-04-19 0:00
+T01086,U001637,Billing,,closed,Email,negative,,2023-05-09 0:00,,171,2023-05-09 0:00
+T00260,U000264,Account,low,closed,email,positive,S.Khan,,,,2024-01-18 0:00
+T00232,U001132,Onboarding,High,RESOLVED,Phone,neutral,,04/03/2024,04/28/2024,,2024-04-03 0:00
+T01240,U000314,Performance,,OPEN,Phone,,S.Khan,2023-06-19 0:00,2023-07-11,,2023-06-19 0:00
+T01364,USR-000748,Integration,,closed,email,neutral,A.Smith,2023-04-16 0:00,0000-00-00,,2023-04-16 0:00
+T00650,U000501,Bug,High,RESOLVED,In-App,,J.Doe,2023-10-17,0000-00-00,unknown,2023-10-17 0:00
+T00855,U000703,Performance,,pending,In-App,,J.Doe,2023-04-29,,unknown,2023-04-29 0:00
+T01336,U001116,Performance,Medium,pending,,,R.Patel,03/10/2025,,97,2025-03-10 0:00
+T00282,U001513,Billing,,RESOLVED,Phone,negative,M.Chen,2024-02-12,,,2024-02-12 0:00
+T00062,U001858,Integration,,resolved,email,negative,R.Patel,0000-00-00,2025-02-21,,2025-01-22 0:00
+T00929,U001634,Onboarding,Low,closed,email,positive,J.Doe,0000-00-00,0000-00-00,23,2023-05-23 0:00
+T00157,U001942,Feature Request,,RESOLVED,Chat,neutral,,2023-01-25 0:00,02/02/2023,unknown,2023-01-25 0:00
+T00594,U000084,Performance,Medium,resolved,,,R.Patel,,06/15/2023,unknown,2023-05-27 0:00
+T00077,U000644,Feature Request,low,OPEN,,,,2024-02-18 0:00,2024-02-23 0:00,,2024-02-18 0:00
+T01111,U001949,Account,,OPEN,Chat,negative,,2023-03-13,2023-03-17,,2023-03-13 0:00
+ T00807,U002346,Feature Request,Medium,pending,,negative,A.Smith,2024-07-10 0:00,08/07/2024,,2024-07-10 0:00
+T00583,U000775,Account,Urgent,pending,Email,,R.Patel,2024-03-09,2024-04-03,,2024-03-09 0:00
+T00008,USR-000170,Performance,Medium,RESOLVED,Chat,neutral,,2023-09-30,2023-10-23,18,2023-09-30 0:00
+T00861,U001981,Feature Request,Urgent,RESOLVED,Chat,NEGATIVE,M.Chen,0000-00-00,0000-00-00,unknown,2024-02-25 0:00
+T01468,U001740,Feature Request,Medium,RESOLVED,Email,,M.Chen,07/07/2023,07/29/2023,unknown,2023-07-07 0:00
+T01282,U000097,Performance,Medium,pending,Phone,positive,A.Smith,0000-00-00,2024-05-23,,2024-05-08 0:00
+T00285,U000731,Performance,Medium,open,Email,negative,M.Chen,0000-00-00,2024-09-04,,2024-08-16 0:00
+T00585,U001712,Billing,Low,pending,In-App,neutral,J.Doe,2025-04-17,2025-05-04,,2025-04-17 0:00
+T00307,U000940,Bug,High,RESOLVED,Chat,negative,S.Khan,2024-01-13,2024-02-01 0:00,,2024-01-13 0:00
+T00047,u002365,Onboarding,low,pending,Chat,NEGATIVE,M.Chen,05/04/2025,2025-05-12,unknown,2025-05-04 0:00
+T00499,U000316,Bug,High,RESOLVED,,,M.Chen,0000-00-00,2024-09-08,unknown,2024-09-05 0:00
+T00670,U000449,Other,High,resolved,,positive,S.Khan,2023-01-24,0000-00-00,unknown,2023-01-24 0:00
+T00720, U001176 ,Performance,Medium,pending,Email,positive,J.Doe,2024-09-20,2024-10-05 0:00,,2024-09-20 0:00
+T01116,U001211,Performance,Medium,pending,email,NEGATIVE,J.Doe,0000-00-00,0000-00-00,,2024-06-16 0:00
+T00729,U000493,Integration,,resolved,Email,neutral,R.Patel,05/05/2024,2024-05-25 0:00,,2024-05-05 0:00
+T00758,U000045,Onboarding,low,closed,,negative,A.Smith,01/03/2025,2025-01-24 0:00,,2025-01-03 0:00
+T01196,U000007,Onboarding,low,closed,Email,negative,,2023-07-18,2023-07-23 0:00,36,2023-07-18 0:00
+T00566,U001891,Other,Low,open,Chat,neutral,A.Smith,0000-00-00,2024-10-06,118,2024-10-06 0:00
+T00821,U000760,Feature Request,,OPEN,email,neutral,M.Chen,0000-00-00,,,2025-02-27 0:00
+T00145,U002057,Integration,High,closed,,neutral,,01/20/2025,2025-02-02 0:00,unknown,2025-01-20 0:00
+T00657,U002286,Other,,resolved,,negative,M.Chen,,0000-00-00,,2023-03-17 0:00
+T00333,U000902,Onboarding,Low,resolved,Chat,NEGATIVE,J.Doe,03/12/2023,0000-00-00,123,2023-03-12 0:00
+t01373,u001488,Account,Low,OPEN,,negative,M.Chen,0000-00-00,,,2024-06-21 0:00
+T00805,U001890,Onboarding,low,OPEN,Phone,positive,A.Smith,2023-05-06 0:00,0000-00-00,170,2023-05-06 0:00
+T00826,USR-000529,Performance,Low,resolved,Chat,negative,,02/26/2023,,,2023-02-26 0:00
+T01165,u001670,Billing,low,resolved,In-App,,S.Khan,03/15/2023,2023-04-10 0:00,,2023-03-15 0:00
+T00354,U002054,Integration,,pending,,neutral,S.Khan,06/07/2024,2024-06-14 0:00,163,2024-06-07 0:00
+T00227,U000809,Billing,Medium,closed,Phone,positive,R.Patel,2023-07-03,0000-00-00,21,2023-07-03 0:00
+T00636,U000090,Account,,OPEN,Phone,,M.Chen,2024-11-23,0000-00-00,,2024-11-23 0:00
+T00159,U001814,Account,High,OPEN,Chat,,S.Khan,2023-09-20 0:00,09/28/2023,,2023-09-20 0:00
+T00093,U000083,Integration,low,resolved,In-App,negative,M.Chen,2024-04-20,05/14/2024,,2024-04-20 0:00
+T01269,U001209,Other,,resolved,Email,,,,,,2024-03-24 0:00
+T00336,U002024,Integration,Low,closed,,NEGATIVE,S.Khan,0000-00-00,11/17/2024,unknown,2024-10-26 0:00
+T00728,U002126,Other,Medium,RESOLVED,,positive,M.Chen,,2025-07-07 0:00,,2025-06-18 0:00
+T00316,U002592,Integration,low,closed,Phone,,,2025-02-03,02/14/2025,,2025-02-03 0:00
+T00970,U000774,Feature Request,Urgent,OPEN,Email,,S.Khan,2024-01-24 0:00,,,2024-01-24 0:00
+T01415,U001496,Integration,,pending,,neutral,R.Patel,0000-00-00,2025-02-08,,2025-02-01 0:00
+T00831, U001532 ,Feature Request,High,OPEN,Phone,positive,A.Smith,2024-01-07,,189,2024-01-07 0:00
+T00993,U001816,Integration,,pending,Chat,,M.Chen,0000-00-00,07/05/2023,,2023-06-08 0:00
+T00172,U000259,Account,Low,OPEN,Chat,,,03/02/2024,,unknown,2024-03-02 0:00
+T00517,U001493,Performance,High,RESOLVED,,,R.Patel,2023-09-16,2023-10-07 0:00,,2023-09-16 0:00
+T00286,U001044,Other,Medium,OPEN,Chat,NEGATIVE,R.Patel,,,unknown,2024-04-26 0:00
+T00259,U000327,Account,,RESOLVED,Email,,R.Patel,2023-06-01,2023-06-22,172,2023-06-01 0:00
+T00898,U000886,Performance,Low,resolved,,neutral,J.Doe,0000-00-00,2023-03-16,,2023-03-15 0:00
+T00207,U002506,Integration,,open,,neutral,S.Khan,2023-07-06,07/09/2023,,2023-07-06 0:00
+T00048,U000172,Onboarding,Medium,open,Chat,positive,,2025-04-15,0000-00-00,124,2025-04-15 0:00
+T00306,U002045,Billing,Low,OPEN,email,neutral,A.Smith,0000-00-00,,,2023-05-29 0:00
+T00391,U002236,Account,High,RESOLVED,,,R.Patel,2025-01-16,,103,2025-01-16 0:00
+T00956,U000604,Billing,low,RESOLVED,In-App,positive,,2024-10-30,,,2024-10-30 0:00
+T00218,U001358,Billing,Urgent,resolved,In-App,neutral,S.Khan,2024-06-18,2024-07-18,,2024-06-18 0:00
+T00541,U002320,Integration,High,pending,,NEGATIVE,,,2023-11-24,75,2023-11-09 0:00
+T01059,U002431,Bug,low,resolved,Chat,neutral,,0000-00-00,,,2024-02-05 0:00
+T00635,U001169,Other,Urgent,pending,email,,R.Patel,2025-05-02 0:00,2025-05-26,unknown,2025-05-02 0:00
+T00775,U002247,Billing,,open,In-App,negative,S.Khan,,2023-10-09,225,2023-09-15 0:00
+t00818,U001116,Feature Request,Low,closed,In-App,negative,,,2023-03-09,,2023-02-07 0:00
+T01325,U000007,Account,Low,closed,Chat,negative,,0000-00-00,0000-00-00,209,2024-10-13 0:00
+T00733,U001268,Billing,,closed,In-App,negative,,2023-07-29 0:00,,,2023-07-29 0:00
+T00789,U001964,Integration,,open,Chat,NEGATIVE,J.Doe,2024-02-13,,,2024-02-13 0:00
+T01086,U001988,Performance,High,OPEN,email,,,2024-09-18,2024-10-12,165,2024-09-18 0:00
+T01337,u000216,Bug,High,closed,Chat,positive,A.Smith,0000-00-00,,47,2023-01-05 0:00
+T00201,U002434,Billing,Medium,open,,,,0000-00-00,,,2025-05-20 0:00
+T00827,U001036,Bug,,closed,email,positive,M.Chen,0000-00-00,09/27/2024,,2024-09-11 0:00
+T01035,USR-001383,Integration,low,open,In-App,,,2024-09-01,0000-00-00,unknown,2024-09-01 0:00
+T00759,U002468,Onboarding,Low,resolved,Chat,neutral,,0000-00-00,05/01/2023,unknown,2023-04-12 0:00
+T00330,U001326,Other,low,OPEN,email,,A.Smith,03/08/2025,2025-03-25,64,2025-03-08 0:00
+T00856,U001479,Integration,Low,resolved,,,J.Doe,2024-06-21 0:00,,,2024-06-21 0:00
+T01346,U002182,Performance,low,resolved,In-App,positive,M.Chen,2023-11-11 0:00,12/03/2023,unknown,2023-11-11 0:00
+T00998,U000206,Onboarding,Medium,OPEN,Email,,J.Doe,08/08/2023,08/25/2023,,2023-08-08 0:00
+T00920,U000394,Feature Request,low,RESOLVED,In-App,positive,A.Smith,2024-05-18,2024-05-20,,2024-05-18 0:00
+T01157,U000329,Onboarding,Low,RESOLVED,,NEGATIVE,J.Doe,,0000-00-00,163,2023-04-29 0:00
+T00323,U001849,Feature Request,Medium,resolved,email,,,0000-00-00,,unknown,2023-04-30 0:00
+T00014,U001840,Performance,,OPEN,Email,negative,R.Patel,2023-02-19,2023-03-02,,2023-02-19 0:00
+T00935,U001353,Onboarding,High,RESOLVED,email,,,0000-00-00,2024-12-23 0:00,71,2024-11-23 0:00
+T00037,U001020,Onboarding,Low,open,In-App,NEGATIVE,S.Khan,0000-00-00,2025-06-15,unknown,2025-05-23 0:00
+T01482, U001270 ,Performance,Urgent,open,Phone,,,2024-01-21 0:00,,,2024-01-21 0:00
+T01217,U001575,Account,,closed,email,NEGATIVE,M.Chen,0000-00-00,0000-00-00,unknown,2024-02-05 0:00
+T00886,U001473,Other,Urgent,open,,,S.Khan,0000-00-00,07/07/2023,105,2023-06-13 0:00
+T01175,U000071,Account,Urgent,resolved,email,,,,2023-10-30,unknown,2023-10-01 0:00
+T01205,U000023,Feature Request,,pending,Email,neutral,J.Doe,02/08/2023,0000-00-00,,2023-02-08 0:00
+T00375,U001355,Feature Request,Medium,closed,Chat,negative,S.Khan,2024-03-18 0:00,,,2024-03-18 0:00
+T01041,U001513,Bug,low,pending,,NEGATIVE,,,09/18/2023,unknown,2023-09-17 0:00
+T01209,U000302,Integration,,open,email,,S.Khan,2023-03-23,03/24/2023,79,2023-03-23 0:00
+T00189,U002594,Feature Request,Medium,OPEN,,,J.Doe,0000-00-00,,,2024-04-22 0:00
+T00617,u000960,Feature Request,Urgent,pending,Chat,,A.Smith,0000-00-00,2023-02-15,,2023-01-20 0:00
+T01175,U002296,Billing,,open,Phone,neutral,S.Khan,04/26/2024,0000-00-00,,2024-04-26 0:00
+T00284,U000129,Performance,High,pending,In-App,NEGATIVE,A.Smith,04/08/2023,,15,2023-04-08 0:00
+T01471,U002141,Performance,,pending,,positive,,01/09/2024,,,2024-01-09 0:00
+T00946,U001668,Integration,low,closed,Chat,NEGATIVE,S.Khan,2023-03-04,0000-00-00,141,2023-03-04 0:00
+T00376,U001627,Other,low,closed,email,negative,S.Khan,2024-09-06,0000-00-00,unknown,2024-09-06 0:00
+T00301,U001062,Onboarding,Urgent,pending,,positive,,0000-00-00,,unknown,2023-09-27 0:00
+T01071,u000924,Billing,low,open,,,,,0000-00-00,10,2023-10-11 0:00
+T01493,U001609,Performance,Medium,resolved,Email,NEGATIVE,J.Doe,07/16/2023,07/22/2023,unknown,2023-07-16 0:00
+t00423,U001142,Performance,Medium,pending,email,neutral,R.Patel,08/01/2024,,,2024-08-01 0:00
+t01127,U001499,Feature Request,,pending,Email,positive,S.Khan,11/27/2023,2023-12-16,,2023-11-27 0:00
+T01099,U000312,Account,Urgent,resolved,email,,M.Chen,,2024-07-30,,2024-06-30 0:00
+T00184,U001811,Integration,,pending,Chat,neutral,M.Chen,2024-03-10,03/13/2024,236,2024-03-10 0:00
+T00877,U002335,Account,High,resolved,In-App,NEGATIVE,,0000-00-00,,,2024-02-15 0:00
+T00461, USR-000627 ,Account,Urgent,open,In-App,,J.Doe,08/22/2023,,,2023-08-22 0:00
+T00646,U000892,Performance,Medium,resolved,Email,,,2025-01-20 0:00,,,2025-01-20 0:00
+T01455,U002512,Feature Request,Medium,pending,In-App,,R.Patel,06/02/2023,06/17/2023,,2023-06-02 0:00
+T00077,U002270,Other,,RESOLVED,Email,NEGATIVE,A.Smith,0000-00-00,,203,2024-01-21 0:00
+T01387,U001913,Account,High,OPEN,,,,0000-00-00,2024-12-13 0:00,unknown,2024-11-18 0:00
+T00749,U002114,Integration,,OPEN,In-App,neutral,S.Khan,05/03/2024,05/08/2024,169,2024-05-03 0:00
+T00816,U002192,Bug,Medium,open,,negative,,,2024-09-12,,2024-08-26 0:00
+T01018,U001204,Billing,High,open,Chat,negative,,0000-00-00,0000-00-00,11,2024-11-14 0:00
+T00446,U000176,Other,Low,closed,Chat,negative,,,,,2025-04-03 0:00
+T00965,U001927,Billing,Urgent,closed,email,,R.Patel,2025-06-06,2025-06-28,,2025-06-06 0:00
+T00226,U000416,Feature Request,High,resolved,Email,neutral,,0000-00-00,,166,2024-10-25 0:00
+T01462,U001892,Bug,,OPEN,Chat,neutral,S.Khan,03/20/2025,0000-00-00,,2025-03-20 0:00
+T00642,U002315,Other,Low,open,Email,NEGATIVE,R.Patel,,04/29/2025,,2025-04-29 0:00
+T01365,U000752,Other,Urgent,RESOLVED,Phone,,,02/02/2025,2025-03-04,,2025-02-02 0:00
+T00910,U001686,Onboarding,Medium,OPEN,Phone,negative,,2023-02-11,,,2023-02-11 0:00
+ T01362,U002476,Other,Urgent,OPEN,Email,,,2024-04-05 0:00,2024-04-11,35,2024-04-05 0:00
+T00904,U001166,Other,,OPEN,In-App,neutral,S.Khan,2023-10-04,10/31/2023,,2023-10-04 0:00
+ T00829,U001619,Billing,,open,,neutral,J.Doe,2024-12-27,2024-12-29 0:00,unknown,2024-12-27 0:00
+T01304,u000525,Bug,High,resolved,Chat,,S.Khan,0000-00-00,0000-00-00,189,2024-05-16 0:00
+T00313,U001168,Onboarding,Medium,OPEN,email,,,2025-02-08,,148,2025-02-08 0:00
+T01184,U001845,Other,low,resolved,In-App,negative,R.Patel,0000-00-00,2024-12-23,,2024-12-16 0:00
+T00649,U000308,Onboarding,Medium,closed,In-App,,A.Smith,0000-00-00,,,2024-06-14 0:00
+T00748,U001632,Integration,Medium,RESOLVED,email,,R.Patel,03/26/2024,0000-00-00,unknown,2024-03-26 0:00
+T01226,U001316,Feature Request,Medium,open,Chat,neutral,S.Khan,0000-00-00,,unknown,2024-08-08 0:00
+T00156,U000921,Other,Urgent,OPEN,Email,NEGATIVE,J.Doe,2023-03-01,03/01/2023,,2023-03-01 0:00
+T01193,USR-001452,Billing,low,closed,Phone,neutral,M.Chen,2024-01-05,2024-01-06,unknown,2024-01-05 0:00
+T01476,U002097,Performance,low,resolved,Email,,,09/02/2024,0000-00-00,,2024-09-02 0:00
+T00157,U002387,Feature Request,,open,,positive,J.Doe,2025-04-01 0:00,2025-04-03,85,2025-04-01 0:00
+T00292,U000670,Other,Urgent,open,,,S.Khan,2024-11-06,0000-00-00,38,2024-11-06 0:00
+T00302,U000906,Onboarding,Medium,resolved,,NEGATIVE,S.Khan,04/10/2023,,,2023-04-10 0:00
+T01240,U000758,Bug,low,pending,Phone,positive,,2023-05-17,,92,2023-05-17 0:00
+T00689,U000826,Account,,pending,,NEGATIVE,J.Doe,,2025-07-04 0:00,190,2025-06-13 0:00
+T00646,USR-000259,Other,low,resolved,Email,,,2023-02-08,2023-02-16 0:00,,2023-02-08 0:00
+T00912,U001586,Feature Request,Medium,resolved,,,M.Chen,2024-11-06,0000-00-00,,2024-11-06 0:00
+T00247,U001901,Account,low,resolved,In-App,,M.Chen,0000-00-00,2023-02-04 0:00,unknown,2023-01-09 0:00
+T00911,U002289,Feature Request,,open,,NEGATIVE,,0000-00-00,2024-03-08 0:00,,2024-03-02 0:00
+T00869,U000040,Feature Request,Medium,OPEN,Chat,,S.Khan,2025-03-24,0000-00-00,unknown,2025-03-24 0:00
+T01073,U001316,Bug,,OPEN,In-App,NEGATIVE,R.Patel,0000-00-00,2025-06-23,,2025-06-08 0:00
+T00085,U002013,Feature Request,High,pending,Phone,,R.Patel,0000-00-00,0000-00-00,,2024-02-20 0:00
+T00134,U000777,Bug,Low,pending,email,negative,A.Smith,2023-12-10 0:00,,,2023-12-10 0:00
+T00595,U001022,Integration,,OPEN,In-App,,J.Doe,2024-12-17,,unknown,2024-12-17 0:00
+T00799,U001108,Bug,,OPEN,email,negative,R.Patel,0000-00-00,04/05/2023,59,2023-03-19 0:00
+T00517,u002083,Performance,,OPEN,In-App,,S.Khan,0000-00-00,2023-09-14,,2023-09-08 0:00
+T00282,U001322,Integration,Low,closed,Chat,,,0000-00-00,04/09/2023,,2023-04-07 0:00
+T00182,U002371,Bug,,OPEN,Phone,positive,J.Doe,0000-00-00,,,2024-12-03 0:00
+T00061,U001224,Feature Request,low,open,email,,J.Doe,2024-02-17 0:00,02/19/2024,,2024-02-17 0:00
+T00746,U000287,Feature Request,Low,open,Chat,neutral,,04/25/2024,04/25/2024,,2024-04-25 0:00
+T00425,U001982,Feature Request,Low,resolved,email,NEGATIVE,M.Chen,08/04/2024,,54,2024-08-04 0:00
+T00266,U001624,Account,Urgent,closed,Phone,NEGATIVE,R.Patel,07/15/2023,2023-08-13 0:00,,2023-07-15 0:00
+T00585,U000404,Performance,low,pending,Phone,,M.Chen,2023-01-15 0:00,2023-01-22,133,2023-01-15 0:00
+T00956,U001944,Performance,Medium,pending,email,neutral,J.Doe,2025-03-20,2025-03-21,,2025-03-20 0:00
+T00503,U000085,Billing,Urgent,pending,,negative,,0000-00-00,,144,2025-03-03 0:00
+T00650,U002185,Billing,Urgent,OPEN,Phone,positive,,2025-01-10 0:00,0000-00-00,,2025-01-10 0:00
+ T00083,U001416,Integration,Urgent,open,,NEGATIVE,,2024-03-11,03/16/2024,unknown,2024-03-11 0:00
+T01185,U001549,Onboarding,Urgent,open,Chat,,J.Doe,10/12/2024,2024-10-18 0:00,238,2024-10-12 0:00
+T00740, U000984 ,Billing,High,OPEN,email,negative,,11/29/2024,2024-12-25,73,2024-11-29 0:00
+T01021,U001377,Billing,,OPEN,,negative,J.Doe,2023-12-08,,,2023-12-08 0:00
+T00813,U001453,Billing,Low,open,Email,positive,,2025-02-19,,,2025-02-19 0:00
+T01046,U000917,Billing,,pending,,,,0000-00-00,0000-00-00,206,2025-04-25 0:00
+T01371,U000910,Account,low,RESOLVED,email,NEGATIVE,R.Patel,2024-04-08,,unknown,2024-04-08 0:00
+T00114,U001382,Integration,,RESOLVED,Phone,neutral,M.Chen,2024-11-17,,2,2024-11-17 0:00
+T00408,U001079,Account,Low,open,email,,,2023-06-03,,,2023-06-03 0:00
+T00813,U002586,Bug,Urgent,RESOLVED,,,,0000-00-00,2023-02-02,,2023-01-12 0:00
+T00414,U000681,Other,,RESOLVED,Chat,NEGATIVE,J.Doe,2023-02-04,,187,2023-02-04 0:00
+T00970,U001828,Bug,Urgent,resolved,,,M.Chen,08/22/2023,,unknown,2023-08-22 0:00
+T01462,USR-000256,Onboarding,,RESOLVED,Email,,S.Khan,0000-00-00,,,2023-11-23 0:00
+T00890,U001733,Billing,Medium,resolved,email,negative,,2023-09-10 0:00,,180,2023-09-10 0:00
+T00984,u000951,Billing,High,closed,,NEGATIVE,,2023-10-29 0:00,2023-11-10 0:00,,2023-10-29 0:00
+ T01051,U001008,Feature Request,low,OPEN,,positive,S.Khan,2023-08-24,2023-09-02 0:00,,2023-08-24 0:00
+T01179,u001806,Onboarding,Medium,RESOLVED,,,M.Chen,05/13/2024,2024-06-04,,2024-05-13 0:00
+T00886,U001215,Performance,Urgent,closed,,neutral,A.Smith,2024-06-30,2024-07-29,,2024-06-30 0:00
+T01151,U000277,Feature Request,Medium,OPEN,Email,positive,S.Khan,0000-00-00,07/11/2025,,2025-06-14 0:00
+T00016,U000874,Integration,Urgent,resolved,,,M.Chen,2023-03-07 0:00,04/05/2023,unknown,2023-03-07 0:00
+T00222,U000612,Feature Request,,resolved,Chat,,S.Khan,2025-03-23,2025-04-22,,2025-03-23 0:00
+T00328,U002105,Billing,Medium,resolved,In-App,,J.Doe,2023-09-19,0000-00-00,unknown,2023-09-19 0:00
+T00154,U001035,Account,low,RESOLVED,,,,,01/08/2024,,2023-12-28 0:00
+T01447,u001056,Feature Request,Low,RESOLVED,Email,neutral,S.Khan,2024-06-21,07/04/2024,,2024-06-21 0:00
+T01413,U002145,Integration,High,resolved,,,R.Patel,2023-07-01,,unknown,2023-07-01 0:00
+T00979,U000512,Billing,low,closed,In-App,,A.Smith,2023-02-03,,,2023-02-03 0:00
+T00384,U000320,Bug,low,pending,,positive,R.Patel,,,97,2024-11-28 0:00
+T00030,U000579,Account,low,closed,Phone,negative,A.Smith,,01/22/2025,unknown,2025-01-21 0:00
+T01474,u002499,Onboarding,Urgent,resolved,Phone,,R.Patel,2024-02-07,2024-02-22 0:00,,2024-02-07 0:00
+ T00699,U001861,Account,Urgent,OPEN,Email,,A.Smith,2023-11-26,2023-12-12,,2023-11-26 0:00
+T01335,U000953,Other,low,RESOLVED,Chat,neutral,S.Khan,0000-00-00,,,2023-10-24 0:00
+T00252,U000220,Integration,,closed,Chat,,J.Doe,0000-00-00,2023-09-27,135,2023-09-08 0:00
+T01362,U002199,Feature Request,low,resolved,In-App,neutral,S.Khan,2023-02-20,2023-03-09,,2023-02-20 0:00
+T00938,U000764,Account,low,RESOLVED,,,,0000-00-00,,,2023-10-19 0:00
+ T00631,U001141,Feature Request,,open,,neutral,R.Patel,0000-00-00,0000-00-00,,2023-09-28 0:00
+T00627,U002139,Other,High,resolved,,,M.Chen,08/01/2024,2024-08-13,237,2024-08-01 0:00
+T01287,U001891,Integration,,open,email,neutral,,10/30/2023,2023-11-21,unknown,2023-10-30 0:00
+T01130,U001326,Bug,low,RESOLVED,email,negative,S.Khan,2024-12-07,,,2024-12-07 0:00
+T00740,U000791,Integration,Urgent,closed,,,J.Doe,,,unknown,2024-01-04 0:00
+T01140,U001150,Billing,High,RESOLVED,Phone,,A.Smith,09/10/2023,09/26/2023,unknown,2023-09-10 0:00
+T00608,U001545,Billing,High,closed,Chat,NEGATIVE,,,,12,2023-02-10 0:00
+T01240,U000440,Performance,Low,pending,In-App,,S.Khan,2023-06-18,06/27/2023,96,2023-06-18 0:00
+T01241,U002243,Account,Medium,closed,email,,M.Chen,0000-00-00,2024-06-06 0:00,unknown,2024-05-11 0:00
+T00834,U002495,Billing,Urgent,RESOLVED,email,,,0000-00-00,2025-04-23,214,2025-04-15 0:00
+T01370,U002581,Other,,RESOLVED,Email,neutral,,01/28/2025,02/08/2025,,2025-01-28 0:00
+T00070,U000332,Account,Medium,OPEN,email,NEGATIVE,J.Doe,0000-00-00,,,2023-09-14 0:00
+T00666,U002309,Bug,Medium,open,email,NEGATIVE,R.Patel,2024-12-02,,,2024-12-02 0:00
+T01473,U000410,Billing,low,closed,Chat,,,03/20/2025,2025-04-04 0:00,unknown,2025-03-20 0:00
+T00292,U001302,Billing,,pending,Email,negative,M.Chen,,,,2023-08-17 0:00
+T00990,U002317,Other,low,OPEN,Email,negative,A.Smith,0000-00-00,2023-05-20,,2023-05-07 0:00
+T01119,U002451,Bug,low,resolved,,negative,R.Patel,2025-06-10,2025-06-26,236,2025-06-10 0:00
+T00473,U000118,Billing,,resolved,,positive,J.Doe,0000-00-00,,207,2024-08-17 0:00
+T01416,U001214,Performance,,resolved,,neutral,R.Patel,06/29/2023,,,2023-06-29 0:00
+T01490,USR-000352,Other,Low,closed,,NEGATIVE,A.Smith,,,55,2024-05-30 0:00
+T00413, U001921 ,Onboarding,,OPEN,In-App,,M.Chen,2023-01-30,2023-02-06 0:00,unknown,2023-01-30 0:00
+T01315,U001394,Other,Low,open,,,M.Chen,04/07/2025,0000-00-00,,2025-04-07 0:00
+T00621,U002070,Integration,,resolved,In-App,positive,,2023-09-30,10/09/2023,,2023-09-30 0:00
+T00617,U002518,Integration,Urgent,RESOLVED,,neutral,R.Patel,2024-10-15,,unknown,2024-10-15 0:00
+T00715,U000718,Integration,,RESOLVED,In-App,negative,R.Patel,2023-01-21 0:00,,unknown,2023-01-21 0:00
+T01491,U001540,Performance,Low,resolved,Email,,M.Chen,0000-00-00,0000-00-00,unknown,2023-08-26 0:00
+T01349,U000225,Billing,Medium,pending,In-App,negative,R.Patel,0000-00-00,2025-01-28,28,2024-12-29 0:00
+T00113,U000194,Integration,low,RESOLVED,Email,negative,R.Patel,,2023-08-17,136,2023-07-22 0:00
+T00160,U002368,Account,Medium,resolved,Chat,positive,J.Doe,,,unknown,2023-07-06 0:00
+T01481,U002278,Account,High,open,,negative,J.Doe,2024-07-17,07/24/2024,233,2024-07-17 0:00
+T00345,U002465,Performance,Urgent,open,Email,positive,M.Chen,01/24/2024,2024-01-28 0:00,,2024-01-24 0:00
+T00903,U000882,Bug,Urgent,RESOLVED,In-App,positive,R.Patel,2025-03-14,0000-00-00,,2025-03-14 0:00
+T00390,U001691,Other,Medium,open,Email,,,0000-00-00,,unknown,2025-01-23 0:00
+T00863,u001908,Integration,High,RESOLVED,,neutral,M.Chen,,,unknown,2023-05-17 0:00
+T01013,U000466,Bug,,RESOLVED,Email,,M.Chen,2024-09-21,2024-10-02,,2024-09-21 0:00
+T01236,U001155,Other,low,OPEN,,NEGATIVE,R.Patel,2025-01-23,,146,2025-01-23 0:00
+T00844,U002017,Account,low,pending,Chat,negative,M.Chen,03/12/2024,2024-04-10,,2024-03-12 0:00
+T00767,U000842,Onboarding,low,resolved,In-App,NEGATIVE,J.Doe,09/13/2024,0000-00-00,,2024-09-13 0:00
+T00597,U002197,Other,low,resolved,In-App,neutral,,2023-01-16,2023-02-12,,2023-01-16 0:00
+T01178,U001421,Performance,Urgent,OPEN,Email,negative,R.Patel,2024-10-29,,,2024-10-29 0:00
+T01103,U001118,Feature Request,Medium,pending,Phone,NEGATIVE,M.Chen,03/04/2025,2025-03-30,,2025-03-04 0:00
+ T00359,u000616,Performance,low,pending,Email,neutral,M.Chen,04/24/2023,2023-05-20,,2023-04-24 0:00
+T00113,U000794,Onboarding,Urgent,resolved,Chat,,,2023-03-12,2023-03-30,181,2023-03-12 0:00
+T00553,U000396,Billing,Urgent,open,email,,R.Patel,11/04/2024,,,2024-11-04 0:00
+T00832,U000889,Billing,High,resolved,email,,J.Doe,04/16/2025,,,2025-04-16 0:00
+T01010,U000062,Billing,Low,resolved,In-App,NEGATIVE,J.Doe,,0000-00-00,,2023-02-19 0:00
+T01301,U000628,Integration,High,pending,email,,S.Khan,,2023-10-30,,2023-10-24 0:00
+T00408,U001766,Billing,,OPEN,Chat,NEGATIVE,A.Smith,07/31/2024,,,2024-07-31 0:00
+T00520,U001397,Integration,low,RESOLVED,email,positive,M.Chen,2024-01-22,02/12/2024,,2024-01-22 0:00
+T00637,U000590,Integration,,resolved,Phone,neutral,M.Chen,2023-08-01,2023-08-12,232,2023-08-01 0:00
+T01086,U001974,Performance,,resolved,Email,,R.Patel,2025-03-03,,162,2025-03-03 0:00
+T00377,U002521,Billing,Low,resolved,,negative,,2023-01-02,0000-00-00,,2023-01-02 0:00
+T00650,U000217,Other,High,closed,Email,,M.Chen,0000-00-00,2023-11-13,,2023-11-10 0:00
+T01459,U001546,Feature Request,,OPEN,Email,,R.Patel,0000-00-00,2024-09-19 0:00,,2024-09-08 0:00
+T00217,U000699,Integration,Urgent,RESOLVED,Chat,,S.Khan,10/10/2023,,unknown,2023-10-10 0:00
+T00343,U001651,Account,High,resolved,,negative,M.Chen,0000-00-00,2023-07-16 0:00,unknown,2023-06-29 0:00
+T01241,U002052,Account,Low,resolved,,positive,S.Khan,2024-04-26,,,2024-04-26 0:00
+T01465,U001324,Onboarding,,resolved,,,,0000-00-00,,,2023-02-16 0:00
+T00088,U001779,Feature Request,High,open,Phone,negative,,08/03/2023,08/10/2023,190,2023-08-03 0:00
+T00969,U002501,Bug,,closed,,neutral,,0000-00-00,0000-00-00,,2023-09-09 0:00
+T00222,U001629,Bug,Low,open,email,positive,M.Chen,04/13/2024,2024-05-02 0:00,,2024-04-13 0:00
+T00422,U002423,Feature Request,low,pending,Phone,positive,,2024-06-27,,,2024-06-27 0:00
+T00934,U001534,Account,,OPEN,In-App,neutral,S.Khan,03/10/2025,2025-03-18,,2025-03-10 0:00
+T01035,U002510,Billing,Low,RESOLVED,In-App,negative,A.Smith,0000-00-00,0000-00-00,unknown,2025-01-30 0:00
+T00484,U001769,Performance,Medium,RESOLVED,,neutral,,,,unknown,2023-03-26 0:00
+T00630,U001066,Account,low,open,Email,positive,,0000-00-00,,unknown,2023-09-23 0:00
+T01369,U001567,Feature Request,High,resolved,,negative,,05/04/2025,,,2025-05-04 0:00
+T01260,U001626,Other,Low,open,,negative,,2023-03-28,2023-04-25,unknown,2023-03-28 0:00
+T01184,U000525,Billing,low,resolved,In-App,positive,A.Smith,2024-10-17 0:00,,unknown,2024-10-17 0:00
+T01207,U002034,Feature Request,low,RESOLVED,In-App,,J.Doe,,2023-05-18,157,2023-04-30 0:00
+T00027,u001280,Bug,Medium,open,,NEGATIVE,S.Khan,,,190,2024-12-12 0:00
+T00139,U002289,Onboarding,,closed,,,R.Patel,2024-12-20 0:00,0000-00-00,,2024-12-20 0:00
+T01036,U001572,Integration,Medium,closed,,,,2024-07-14,2024-08-02,,2024-07-14 0:00
+T01331,U002239,Performance,High,RESOLVED,Chat,NEGATIVE,,2023-03-11,,unknown,2023-03-11 0:00
+T00816,U001479,Onboarding,Medium,resolved,email,NEGATIVE,,,2024-12-17,,2024-12-14 0:00
+T01439,u002397,Integration,Urgent,open,Chat,positive,,10/11/2023,10/22/2023,,2023-10-11 0:00
+T00038,U000910,Integration,low,pending,Chat,,R.Patel,03/16/2023,2023-03-17 0:00,,2023-03-16 0:00
+T01166,U001771,Account,,pending,email,negative,R.Patel,2023-04-30,,,2023-04-30 0:00
+T00992,U001015,Onboarding,,RESOLVED,,neutral,,2023-01-04 0:00,,,2023-01-04 0:00
+T01067,U001531,Onboarding,Urgent,resolved,Email,,M.Chen,08/28/2024,,unknown,2024-08-28 0:00
+T00325,U001891,Account,High,pending,In-App,NEGATIVE,S.Khan,2025-05-03,2025-05-10,,2025-05-03 0:00
+T01147,U000108,Integration,Low,open,Email,negative,M.Chen,0000-00-00,2025-01-24 0:00,228,2025-01-18 0:00
+T00387,U000935,Performance,low,open,Chat,neutral,J.Doe,2024-09-09,0000-00-00,,2024-09-09 0:00
+T00142,U000674,Integration,low,RESOLVED,,,,07/28/2023,,,2023-07-28 0:00
+T01435,U001877,Performance,,OPEN,Phone,neutral,R.Patel,0000-00-00,,,2024-06-17 0:00
+T00744, U001846 ,Billing,High,RESOLVED,,NEGATIVE,R.Patel,2025-01-02,01/27/2025,24,2025-01-02 0:00
+T00906,U001676,Onboarding,Low,open,email,,A.Smith,2023-05-17,,102,2023-05-17 0:00
+T00341,U000289,Account,low,closed,,,A.Smith,2024-03-04,03/19/2024,,2024-03-04 0:00
+T00331,U002350,Other,Medium,open,Phone,NEGATIVE,R.Patel,2023-04-13 0:00,2023-05-05,unknown,2023-04-13 0:00
+T00454,U002083,Feature Request,,resolved,,negative,J.Doe,02/27/2023,,,2023-02-27 0:00
+T00717,U000130,Integration,,open,email,,J.Doe,,2023-05-10,unknown,2023-04-26 0:00
+T01225,U000166,Billing,Urgent,pending,Phone,,,03/28/2025,0000-00-00,191,2025-03-28 0:00
+T01401,U001297,Performance,,open,Chat,positive,S.Khan,08/09/2024,,67,2024-08-09 0:00
+T00803,U002069,Bug,High,pending,Chat,negative,M.Chen,2025-04-05,,,2025-04-05 0:00
+T00647,U000646,Performance,Urgent,resolved,Chat,,S.Khan,2025-06-14,06/14/2025,130,2025-06-14 0:00
+T00228,U002117,Bug,Urgent,closed,Email,,R.Patel,0000-00-00,0000-00-00,,2024-05-11 0:00
+T00462,U000507,Bug,,OPEN,Phone,positive,M.Chen,0000-00-00,,,2023-07-31 0:00
+T00319,U001520,Bug,,OPEN,Phone,negative,M.Chen,0000-00-00,2024-08-19,204,2024-08-05 0:00
+T00522,USR-000921,Other,High,open,email,neutral,,2024-03-23,2024-04-20,10,2024-03-23 0:00
+T00569,U001743,Feature Request,,OPEN,,positive,J.Doe,2023-08-03 0:00,0000-00-00,,2023-08-03 0:00
+T00316, u002073 ,Feature Request,Urgent,closed,,positive,M.Chen,2024-11-02,2024-11-22,,2024-11-02 0:00
+T00478,U001415,Performance,low,OPEN,Phone,neutral,R.Patel,2024-01-13,0000-00-00,,2024-01-13 0:00
+T00199,U000994,Billing,,RESOLVED,Chat,positive,,2023-03-15,,unknown,2023-03-15 0:00
+T00544,U000620,Performance,,open,,,,05/26/2023,,148,2023-05-26 0:00
+T00204,U001580,Billing,,OPEN,In-App,,,0000-00-00,2024-09-11,,2024-08-31 0:00
+T01068,U000656,Billing,High,RESOLVED,Email,neutral,S.Khan,2023-12-06,,29,2023-12-06 0:00
+T00581,U001235,Feature Request,Urgent,closed,Phone,,R.Patel,10/03/2024,0000-00-00,,2024-10-03 0:00
+T00786,U000967,Account,Medium,RESOLVED,,NEGATIVE,S.Khan,0000-00-00,,40,2023-10-29 0:00
+T00682,u000333,Onboarding,,RESOLVED,Chat,positive,J.Doe,2024-07-17 0:00,2024-08-01 0:00,,2024-07-17 0:00
+T01168,U002498,Bug,Low,OPEN,In-App,,M.Chen,,,unknown,2023-12-03 0:00
+T00262,U002000,Integration,,resolved,,positive,R.Patel,0000-00-00,2023-10-15,198,2023-10-01 0:00
+T00346,U000198,Performance,Medium,pending,,,M.Chen,0000-00-00,2024-10-20,,2024-10-06 0:00
+T01316,U001307,Performance,Medium,RESOLVED,Email,,R.Patel,0000-00-00,,unknown,2025-01-10 0:00
+T00195,U000488,Other,,RESOLVED,email,neutral,R.Patel,07/02/2023,0000-00-00,,2023-07-02 0:00
+T01127, U001902 ,Performance,Medium,RESOLVED,,NEGATIVE,M.Chen,2024-08-15,2024-08-24,,2024-08-15 0:00
+T01123,U001983,Performance,,closed,Phone,,J.Doe,0000-00-00,,,2023-05-03 0:00
+T00065,U000472,Account,Low,pending,,neutral,A.Smith,2023-09-04,09/29/2023,,2023-09-04 0:00
+T00329,U001572,Onboarding,low,closed,Chat,positive,M.Chen,12/16/2024,,unknown,2024-12-16 0:00
+T00217,U000209,Billing,High,open,,negative,M.Chen,0000-00-00,2023-11-14 0:00,unknown,2023-10-26 0:00
+T00475,U000839,Other,Urgent,RESOLVED,email,NEGATIVE,M.Chen,2024-06-22,,,2024-06-22 0:00
+T01278,u001117,Bug,Urgent,resolved,Chat,positive,,0000-00-00,2023-02-06,unknown,2023-01-15 0:00
+T01290,U002478,Integration,High,open,,negative,R.Patel,02/17/2023,0000-00-00,unknown,2023-02-17 0:00
+T00517,U002516,Performance,Urgent,open,,neutral,,02/21/2025,2025-03-11,unknown,2025-02-21 0:00
+T00031,U000056,Account,Low,open,Email,NEGATIVE,J.Doe,05/19/2023,0000-00-00,,2023-05-19 0:00
+T00682,U000108,Bug,,RESOLVED,Phone,,,2024-01-18,,,2024-01-18 0:00
+T00205,U000012,Bug,,resolved,email,positive,S.Khan,2023-09-23,0000-00-00,,2023-09-23 0:00
+T01447,U000026,Feature Request,High,open,,,S.Khan,,,,2024-01-01 0:00
+T00616,U001943,Billing,High,resolved,Phone,positive,,2024-10-03,,unknown,2024-10-03 0:00
+T00249,U002192,Other,,pending,,neutral,J.Doe,2023-02-26 0:00,2023-03-14,,2023-02-26 0:00
+T00861,U001981,Feature Request,Urgent,RESOLVED,Chat,NEGATIVE,M.Chen,0000-00-00,0000-00-00,unknown,2024-02-25 0:00
+T00016,U000434,Feature Request,Medium,open,Phone,neutral,S.Khan,0000-00-00,0000-00-00,,2024-04-11 0:00
+T01031,U000387,Onboarding,High,RESOLVED,In-App,NEGATIVE,,2024-09-14,,,2024-09-14 0:00
+T00930,U001341,Other,,RESOLVED,Email,neutral,J.Doe,2024-01-14,,,2024-01-14 0:00
+t00797,U000652,Billing,low,open,email,negative,J.Doe,07/10/2024,08/05/2024,unknown,2024-07-10 0:00
+T01377,U002339,Billing,High,closed,email,,A.Smith,0000-00-00,0000-00-00,,2023-09-04 0:00
+T00643,U001059,Bug,,pending,,negative,,2024-11-01 0:00,2024-11-14,,2024-11-01 0:00
+T00200,U002213,Billing,High,RESOLVED,,NEGATIVE,M.Chen,2023-05-17 0:00,,,2023-05-17 0:00
+T00335,U002372,Onboarding,High,pending,Phone,,,,0000-00-00,unknown,2024-09-20 0:00
+T01197,U001916,Account,,pending,In-App,negative,,02/14/2025,2025-02-26 0:00,170,2025-02-14 0:00
+T00370,U002155,Account,low,RESOLVED,,negative,J.Doe,0000-00-00,2024-11-06,204,2024-10-12 0:00
+T01473,U001097,Other,Low,closed,,NEGATIVE,,0000-00-00,,4,2024-06-20 0:00
+T00475,U000363,Onboarding,Low,pending,Phone,NEGATIVE,R.Patel,2023-09-02,2023-09-29,,2023-09-02 0:00
+T01112,U001410,Integration,,closed,Email,positive,J.Doe,2025-03-19,2025-03-20,126,2025-03-19 0:00
+T01498,U000811,Feature Request,low,resolved,,NEGATIVE,R.Patel,05/17/2023,,,2023-05-17 0:00
+T00858,U001037,Bug,Urgent,OPEN,email,positive,M.Chen,2024-04-01 0:00,04/01/2024,41,2024-04-01 0:00
+T00502,U001957,Performance,,resolved,In-App,,R.Patel,0000-00-00,05/08/2024,unknown,2024-04-29 0:00
+T01424,U001097,Feature Request,High,open,Email,negative,S.Khan,2025-03-15 0:00,2025-04-07,,2025-03-15 0:00
+T01313,U001259,Bug,High,open,In-App,NEGATIVE,,0000-00-00,,,2024-09-26 0:00
+T01087,U002600,Bug,,OPEN,,neutral,,02/28/2024,,,2024-02-28 0:00
+T00744,U000167,Account,,OPEN,Phone,NEGATIVE,,2023-04-08,,unknown,2023-04-08 0:00
+T01078,U000813,Performance,,open,email,negative,R.Patel,,2023-06-20,,2023-06-14 0:00
+T00052,U002381,Integration,High,resolved,In-App,,,2024-05-23,2024-05-24,167,2024-05-23 0:00
+T00527,U000727,Performance,Medium,closed,,,,2025-03-28 0:00,,,2025-03-28 0:00
+T00496,U000946,Integration,Medium,open,,NEGATIVE,,0000-00-00,2024-03-23,,2024-03-07 0:00
+T00339,U001031,Billing,Medium,resolved,,neutral,J.Doe,2023-12-03 0:00,0000-00-00,,2023-12-03 0:00
+T01420,U002204,Integration,Medium,closed,Chat,negative,,01/19/2025,,146,2025-01-19 0:00
+T00751,U001827,Billing,,open,Phone,,R.Patel,09/22/2024,0000-00-00,,2024-09-22 0:00
+T01436,U002288,Bug,,closed,In-App,negative,A.Smith,,2025-03-23 0:00,81,2025-03-23 0:00
+T00292,U000274,Billing,low,RESOLVED,Chat,,S.Khan,,,,2025-02-17 0:00
+T00053,U000980,Integration,low,OPEN,,neutral,S.Khan,2024-05-22 0:00,,,2024-05-22 0:00
+T00333,U002562,Integration,Medium,pending,Chat,,J.Doe,2023-03-19,2023-03-19,36,2023-03-19 0:00
+T00117,U002202,Performance,low,RESOLVED,email,,S.Khan,2023-10-19,,,2023-10-19 0:00
+T01175,U000491,Onboarding,Urgent,RESOLVED,,,M.Chen,0000-00-00,01/31/2023,,2023-01-25 0:00
+T01489,u000701,Feature Request,,OPEN,,NEGATIVE,A.Smith,,2024-08-09,167,2024-07-13 0:00
+T01430,U002330,Billing,High,RESOLVED,Email,neutral,R.Patel,,,185,2023-01-25 0:00
+t00861,U001719,Bug,,pending,Phone,negative,J.Doe,0000-00-00,0000-00-00,,2023-08-09 0:00
+T00035,USR-001672,Account,Medium,resolved,Email,neutral,A.Smith,0000-00-00,0000-00-00,unknown,2024-03-18 0:00
+T00274,U000931,Account,,closed,email,negative,R.Patel,03/01/2024,03/21/2024,67,2024-03-01 0:00
+T00876,U000906,Integration,Urgent,closed,In-App,NEGATIVE,R.Patel,,0000-00-00,,2023-04-02 0:00
+ T00317,U001995,Other,,pending,,,M.Chen,,2024-04-23,unknown,2024-03-28 0:00
+T01483,U000227,Billing,Urgent,RESOLVED,In-App,NEGATIVE,,2024-05-05,,,2024-05-05 0:00
+T00450,U002355,Account,High,open,email,,S.Khan,2024-07-24,2024-08-08 0:00,,2024-07-24 0:00
+T00657,U000505,Account,High,pending,Chat,neutral,S.Khan,,,unknown,2024-05-27 0:00
+T01081,U000114,Account,Low,RESOLVED,Phone,negative,,2024-07-31,08/14/2024,,2024-07-31 0:00
+T00737,U000212,Onboarding,,pending,Phone,,M.Chen,2024-02-01,0000-00-00,211,2024-02-01 0:00
+ T00380,U000847,Account,High,resolved,,positive,M.Chen,01/31/2025,,99,2025-01-31 0:00
+T00057,U001751,Integration,Medium,pending,Email,,S.Khan,12/28/2024,2024-12-29,,2024-12-28 0:00
+T00477,u002071,Performance,,pending,In-App,neutral,M.Chen,2023-08-10 0:00,2023-08-20,153,2023-08-10 0:00
+T00878,U000005,Account,Medium,pending,Chat,NEGATIVE,R.Patel,02/07/2024,,5,2024-02-07 0:00
+T01202,U001020,Feature Request,,closed,email,,,04/12/2024,04/20/2024,89,2024-04-12 0:00
+T00061,U001125,Feature Request,Urgent,pending,email,,A.Smith,2024-02-20,2024-03-10 0:00,unknown,2024-02-20 0:00
+T01341,U001612,Other,High,open,,NEGATIVE,,06/21/2023,,,2023-06-21 0:00
+T00160,u001019,Bug,,RESOLVED,,NEGATIVE,S.Khan,0000-00-00,2023-10-23,,2023-09-27 0:00
+T00764,U001171,Account,Urgent,RESOLVED,,neutral,S.Khan,09/07/2024,,unknown,2024-09-07 0:00
+T01312,U000904,Account,High,OPEN,In-App,neutral,R.Patel,10/28/2024,10/28/2024,,2024-10-28 0:00
+T00353,U001207,Onboarding,Urgent,RESOLVED,,neutral,,0000-00-00,,unknown,2024-11-14 0:00
+T00204,U001278,Performance,Low,resolved,Phone,,S.Khan,2023-07-31 0:00,0000-00-00,,2023-07-31 0:00
+T00648,U002320,Integration,High,closed,Phone,positive,A.Smith,0000-00-00,06/24/2025,,2025-06-05 0:00
+T00045,U002128,Onboarding,Low,pending,,positive,,05/27/2025,0000-00-00,unknown,2025-05-27 0:00
+T01355,U000587,Other,Low,open,Chat,positive,S.Khan,2024-04-23 0:00,05/07/2024,unknown,2024-04-23 0:00
+T00169,U001666,Integration,low,OPEN,email,negative,R.Patel,2024-09-22,,126,2024-09-22 0:00
+T01105,U002416,Other,Low,OPEN,In-App,NEGATIVE,S.Khan,12/21/2024,,unknown,2024-12-21 0:00
+T00807,U000582,Other,,pending,,,R.Patel,08/09/2023,2023-08-31,,2023-08-09 0:00
+T01073,U001316,Bug,,OPEN,In-App,NEGATIVE,R.Patel,0000-00-00,2025-06-23,,2025-06-08 0:00
+T00456,U001511,Billing,Low,open,,NEGATIVE,M.Chen,2025-05-21 0:00,,,2025-05-21 0:00
+T01035,U002463,Onboarding,High,resolved,Chat,negative,S.Khan,,2023-11-03,,2023-10-27 0:00
+ T01014,u002407,Feature Request,Low,open,In-App,NEGATIVE,R.Patel,2024-11-29 0:00,2024-12-01,unknown,2024-11-29 0:00
+T01336,U000061,Onboarding,,pending,email,neutral,A.Smith,,2025-01-16 0:00,,2025-01-11 0:00
+T00515,U000712,Integration,low,closed,email,positive,,0000-00-00,07/27/2023,,2023-07-15 0:00
+T00847,U000765,Other,Medium,OPEN,Phone,positive,S.Khan,05/12/2024,0000-00-00,175,2024-05-12 0:00
+T00911,U000007,Performance,Medium,resolved,email,,A.Smith,2024-07-02,,53,2024-07-02 0:00
+T00183,U001199,Billing,,RESOLVED,Phone,NEGATIVE,J.Doe,2023-01-02,01/02/2023,unknown,2023-01-02 0:00
+T00330,U001501,Feature Request,Low,RESOLVED,,,,2023-08-17 0:00,08/26/2023,,2023-08-17 0:00
+T01460,U001245,Performance,Low,RESOLVED,,,R.Patel,2025-01-01,0000-00-00,134,2025-01-01 0:00
+T00618,U000242,Performance,Medium,open,Chat,,S.Khan,0000-00-00,,181,2023-12-22 0:00
+T01393,u000013,Performance,,RESOLVED,Email,,R.Patel,,2023-08-05,,2023-07-24 0:00
+T01330,U000725,Other,,OPEN,Email,positive,S.Khan,05/26/2025,06/08/2025,,2025-05-26 0:00
+T00388,U000372,Other,Low,pending,Chat,neutral,R.Patel,2024-06-30 0:00,,217,2024-06-30 0:00
+T00859,U001793,Onboarding,Urgent,resolved,,,A.Smith,0000-00-00,,174,2025-03-31 0:00
+T01092,U000667,Other,low,pending,,neutral,R.Patel,0000-00-00,2023-04-23,unknown,2023-04-12 0:00
+T00646,U000357,Bug,Urgent,pending,Chat,positive,,2024-11-17,12/04/2024,,2024-11-17 0:00
+T01372,U002376,Bug,,resolved,Phone,positive,,0000-00-00,11/30/2024,,2024-11-05 0:00
+T01044,U002369,Onboarding,Low,resolved,Phone,positive,S.Khan,0000-00-00,,220,2024-01-26 0:00
+T00768,U001578,Onboarding,Medium,RESOLVED,,negative,A.Smith,2023-12-19 0:00,01/01/2024,,2023-12-19 0:00
+T00728,U000930,Other,Urgent,OPEN,Phone,,M.Chen,0000-00-00,12/14/2023,226,2023-12-12 0:00
+T01376,U001373,Feature Request,Low,resolved,email,NEGATIVE,A.Smith,2024-07-13 0:00,07/26/2024,,2024-07-13 0:00
+T00217,U001476,Onboarding,,OPEN,Email,negative,J.Doe,2023-01-17,02/11/2023,236,2023-01-17 0:00
+T00647,U000491,Integration,,closed,In-App,neutral,S.Khan,2024-02-24 0:00,2024-03-17 0:00,,2024-02-24 0:00
+T01353,U002589,Onboarding,High,RESOLVED,,negative,,2023-12-01,,unknown,2023-12-01 0:00
+T00044,U001840,Billing,,pending,In-App,,M.Chen,2023-02-22,0000-00-00,unknown,2023-02-22 0:00
+T00330,U001869,Onboarding,Low,closed,,,,02/13/2025,2025-02-15,51,2025-02-13 0:00
+T01266,U002589,Billing,High,closed,,,,0000-00-00,2023-12-14,unknown,2023-11-18 0:00
+T00056,USR-002228,Bug,Urgent,pending,Email,,S.Khan,2023-11-03,0000-00-00,unknown,2023-11-03 0:00
+T00661,U002104,Performance,,open,Email,positive,,01/20/2024,,217,2024-01-20 0:00
+T00992,U000764,Feature Request,,resolved,,,,2025-04-27,2025-05-16,unknown,2025-04-27 0:00
+t01199,U000007,Billing,Low,RESOLVED,Chat,positive,R.Patel,0000-00-00,,10,2023-07-20 0:00
+T00604,U001888,Account,Low,RESOLVED,Chat,positive,,01/03/2023,,,2023-01-03 0:00
+T00185,U002576,Feature Request,High,resolved,,negative,R.Patel,2024-08-11,,unknown,2024-08-11 0:00
+T00069,U000780,Performance,,RESOLVED,Chat,,M.Chen,2023-12-14,,,2023-12-14 0:00
+T00312,U001052,Billing,High,RESOLVED,,,J.Doe,01/02/2025,02/01/2025,unknown,2025-01-02 0:00
+T00939,u002430,Billing,,resolved,Chat,NEGATIVE,J.Doe,2024-04-14 0:00,,60,2024-04-14 0:00
+T00813,U000354,Performance,Medium,open,Chat,neutral,A.Smith,03/02/2023,,,2023-03-02 0:00
+T01244,U000620,Billing,High,OPEN,email,,M.Chen,,04/02/2023,,2023-03-28 0:00
+T00463,U002579,Other,,RESOLVED,,NEGATIVE,,,2025-02-02,,2025-01-11 0:00
+T00059,U001938,Billing,Medium,RESOLVED,Chat,,A.Smith,0000-00-00,,,2025-04-14 0:00
+T00969,U000864,Onboarding,High,open,,neutral,J.Doe,2025-02-01,2025-03-01,19,2025-02-01 0:00
+T00149,U002474,Onboarding,low,closed,Phone,positive,S.Khan,2024-10-03 0:00,10/04/2024,,2024-10-03 0:00
+T00409,U001579,Billing,Medium,open,Chat,NEGATIVE,R.Patel,04/25/2025,,,2025-04-25 0:00
+T00775,u001593,Bug,,resolved,Email,,,2024-03-06,2024-03-12,,2024-03-06 0:00
+T00707,U002346,Billing,low,closed,,neutral,,2024-06-04,,unknown,2024-06-04 0:00
+T01113,U001131,Feature Request,Low,RESOLVED,In-App,NEGATIVE,R.Patel,2023-04-30 0:00,,unknown,2023-04-30 0:00
+T00731,U002195,Performance,Medium,open,In-App,neutral,A.Smith,,2023-06-04,unknown,2023-05-31 0:00
+T01126, U002165 ,Integration,low,pending,Phone,neutral,R.Patel,05/22/2023,05/26/2023,unknown,2023-05-22 0:00
+T01295,U002080,Bug,,OPEN,,negative,A.Smith,0000-00-00,08/11/2024,82,2024-07-22 0:00
+T00635,U000877,Feature Request,Urgent,RESOLVED,In-App,,M.Chen,01/09/2025,2025-01-26,,2025-01-09 0:00
+T00866,U001905,Other,Low,pending,,neutral,J.Doe,08/15/2023,,,2023-08-15 0:00
+T01497,U001387,Integration,High,RESOLVED,Email,negative,J.Doe,2024-09-07,,9,2024-09-07 0:00
+t01332,U001344,Bug,Urgent,open,Chat,,A.Smith,08/01/2023,2023-08-09 0:00,,2023-08-01 0:00
+T01120,u001288,Performance,Low,open,,,,2024-09-03 0:00,09/10/2024,153,2024-09-03 0:00
+T00832,U001869,Performance,low,open,Email,NEGATIVE,J.Doe,0000-00-00,2024-07-20 0:00,215,2024-06-20 0:00
+T00078,u000368,Bug,Low,RESOLVED,Chat,positive,A.Smith,07/02/2023,,,2023-07-02 0:00
+T01085,U000321,Performance,,OPEN,,,R.Patel,2024-12-09,2025-01-01 0:00,,2024-12-09 0:00
+T01186,USR-000453,Performance,low,OPEN,Email,positive,R.Patel,2025-06-15 0:00,,,2025-06-15 0:00
+T00782,U001540,Integration,low,open,,positive,J.Doe,0000-00-00,2024-10-14,,2024-10-09 0:00
+T00058,U001542,Bug,High,closed,In-App,positive,A.Smith,2023-10-22,2023-11-13,,2023-10-22 0:00
+T00583,U002140,Integration,Medium,pending,,neutral,J.Doe,0000-00-00,0000-00-00,,2024-02-22 0:00
+T00671,U000969,Performance,High,closed,Chat,,,,2023-07-31,,2023-07-07 0:00
+T01383,u002491,Billing,High,open,Email,,R.Patel,05/22/2025,2025-05-24,177,2025-05-22 0:00
+T00358,USR-001243,Integration,High,RESOLVED,In-App,negative,,0000-00-00,,133,2023-02-02 0:00
+T01165,U002004,Other,Low,closed,email,NEGATIVE,S.Khan,2024-02-25 0:00,,152,2024-02-25 0:00
+T01033,U000272,Integration,,OPEN,Phone,neutral,,2023-12-05,2023-12-18,,2023-12-05 0:00
+T00960,U001450,Integration,Urgent,RESOLVED,email,NEGATIVE,M.Chen,2024-02-28,2024-03-12 0:00,,2024-02-28 0:00
+T00981,U002149,Onboarding,low,open,Email,,M.Chen,2023-02-26 0:00,0000-00-00,,2023-02-26 0:00
+T00334,U000536,Onboarding,Urgent,pending,email,NEGATIVE,,0000-00-00,,,2024-11-16 0:00
+T01157,U001604,Billing,,RESOLVED,,NEGATIVE,S.Khan,2024-08-15,0000-00-00,,2024-08-15 0:00
+T00235,U000506,Billing,High,open,Phone,,,2023-08-03 0:00,2023-08-30 0:00,unknown,2023-08-03 0:00
+T00781,U001037,Other,High,RESOLVED,,neutral,S.Khan,2025-05-07 0:00,2025-06-05,126,2025-05-07 0:00
+T00076,U000068,Onboarding,low,closed,,positive,J.Doe,2023-11-04,2023-11-14 0:00,,2023-11-04 0:00
+T00727,U001341,Performance,Medium,closed,Chat,positive,A.Smith,2025-04-17,,234,2025-04-17 0:00
+T00867,U000815,Performance,Low,pending,Chat,NEGATIVE,,0000-00-00,02/24/2024,unknown,2024-02-15 0:00
+T00432,U000544,Bug,Urgent,OPEN,,neutral,R.Patel,0000-00-00,08/07/2024,,2024-07-26 0:00
+T01301,U000533,Onboarding,,open,email,NEGATIVE,R.Patel,09/27/2023,,107,2023-09-27 0:00
+T00618,U002138,Account,High,RESOLVED,Chat,negative,M.Chen,2024-01-12 0:00,0000-00-00,,2024-01-12 0:00
+T01057,U001615,Billing,Urgent,resolved,Chat,,A.Smith,,,,2025-01-17 0:00
+T00807,U000360,Onboarding,Low,RESOLVED,email,neutral,M.Chen,2025-02-06 0:00,,,2025-02-06 0:00
+T00038,U000095,Bug,High,RESOLVED,Phone,NEGATIVE,,08/07/2024,,20,2024-08-07 0:00
+T01130,U001235,Other,low,open,In-App,negative,R.Patel,05/20/2025,,,2025-05-20 0:00
+T00345,U000267,Onboarding,,open,Email,,,0000-00-00,2024-07-09,105,2024-07-04 0:00
+T00178,U000440,Performance,Urgent,RESOLVED,,positive,,0000-00-00,,,2025-04-07 0:00
+T00661,U002577,Feature Request,Urgent,open,,positive,,08/20/2024,2024-08-22,,2024-08-20 0:00
+T00414,U002225,Integration,Urgent,open,Email,,A.Smith,,0000-00-00,,2025-06-08 0:00
+T00416,U001719,Other,Urgent,closed,,neutral,R.Patel,2023-03-13,0000-00-00,unknown,2023-03-13 0:00
+T01111,U000666,Onboarding,Low,open,Email,neutral,A.Smith,11/04/2024,11/08/2024,,2024-11-04 0:00
+T00673,U000131,Integration,low,open,,NEGATIVE,R.Patel,0000-00-00,0000-00-00,,2023-08-22 0:00
+T01091,U000870,Account,Urgent,pending,,neutral,S.Khan,2023-11-05 0:00,,,2023-11-05 0:00
+T01371,U000910,Account,low,RESOLVED,email,NEGATIVE,R.Patel,2024-04-08,,unknown,2024-04-08 0:00
+T00544,U000257,Onboarding,,closed,,NEGATIVE,,2024-05-14 0:00,06/11/2024,,2024-05-14 0:00
+T01051,U002419,Onboarding,High,closed,,neutral,,2023-01-15,2023-02-11 0:00,,2023-01-15 0:00
+T01448,U002164,Integration,High,pending,,,S.Khan,2024-11-07,0000-00-00,199,2024-11-07 0:00
+T00736,USR-001232,Integration,Low,RESOLVED,In-App,negative,S.Khan,,,unknown,2023-02-10 0:00
+T01265,u002203,Account,,resolved,In-App,,,,,,2025-01-02 0:00
+T00792,U000083,Onboarding,Medium,RESOLVED,email,negative,,2023-07-09,,,2023-07-09 0:00
+T01246,U001027,Bug,Low,open,email,NEGATIVE,S.Khan,09/05/2023,,92,2023-09-05 0:00
+T01190,usr-000771,Performance,low,resolved,Email,,A.Smith,10/16/2024,2024-10-23 0:00,145,2024-10-16 0:00
+T00250,U000431,Bug,High,pending,In-App,,J.Doe,0000-00-00,0000-00-00,unknown,2025-02-16 0:00
+T00011,U002337,Integration,Low,OPEN,Chat,neutral,A.Smith,06/20/2024,2024-07-14,124,2024-06-20 0:00
+T00052,U000463,Feature Request,Medium,resolved,Phone,positive,S.Khan,10/31/2023,0000-00-00,115,2023-10-31 0:00
+T01217,U001995,Onboarding,Medium,resolved,Chat,NEGATIVE,M.Chen,2023-09-11,,,2023-09-11 0:00
+ T00365,U002058,Billing,High,resolved,In-App,,S.Khan,2023-10-08 0:00,,175,2023-10-08 0:00
+T01193,U001294,Onboarding,low,OPEN,,,S.Khan,0000-00-00,,unknown,2023-12-22 0:00
+T00031,U000056,Account,Low,open,Email,NEGATIVE,J.Doe,05/19/2023,0000-00-00,,2023-05-19 0:00
+T01153,U000496,Integration,High,closed,email,NEGATIVE,J.Doe,0000-00-00,2024-08-10,,2024-07-21 0:00
+T00430,U000584,Onboarding,High,OPEN,Chat,,R.Patel,2024-12-04,,,2024-12-04 0:00
+T00730,U000870,Other,low,RESOLVED,,,S.Khan,2025-02-08,,188,2025-02-08 0:00
