@@ -2,18 +2,15 @@
 SELECT * FROM nexloom_analytics.fact_subscriptions;
 
 -- CLEANING THE "USERS" TABLE TO ENSURE PROPER DATA QUALITY --
-CREATE TABLE fact_subscriptions_cleaned AS 
+CREATE VIEW fact_subscriptions_cleaned AS 
 SELECT	
 -- SUBSCRIPTION ID --
-    UPPER(TRIM(subscription_id)) AS subscription_id,
+    CONCAT('S', ROW_NUMBER() OVER (ORDER BY subscription_id)) AS subscription_id,
+    subscription_id AS old_subscription_id,
     
 -- USER ID --
-    TRIM(UPPER(
-		CASE
-		  WHEN TRIM(user_id) LIKE 'USR-%'
-			THEN CONCAT('U0', SUBSTRING(TRIM(user_id), 6))
-		  ELSE TRIM(user_id) END))  
-	AS user_id,
+	ROW_NUMBER() OVER (ORDER BY user_id) AS user_id,
+    user_id AS old_user_id,
     
 -- PLAN NAME --
 	CONCAT(
@@ -37,9 +34,14 @@ SELECT
     END AS currency,
     
 -- STATUS -- 
-	CONCAT(
-    UPPER(LEFT(status, 1)),
-    LOWER(SUBSTRING(status, 2))) AS status,
+	CASE 
+    WHEN LOWER(status) IN ('cancelled', 'canceled') THEN 'Cancelled'
+    ELSE CONCAT(
+            UPPER(LEFT(status, 1)),
+            LOWER(SUBSTRING(status, 2))
+         )
+	END AS status,
+
     
 -- START DATE --
 	CASE
@@ -172,4 +174,4 @@ END AS updated_at
 
 
     
-FROM nexloom_analytics.fact_subscriptions
+FROM nexloom_analytics.fact_subscriptions;
