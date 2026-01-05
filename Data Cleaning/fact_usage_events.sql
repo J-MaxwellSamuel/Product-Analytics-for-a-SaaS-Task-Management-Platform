@@ -1,20 +1,10 @@
--- TO VIEW ENTIRE TABLE --
-SELECT * FROM nexloom_analytics.fact_usage_events;
-
-                                  #################################################### FACT TABLE ####################################################
--- CLEANING THE "USAGE EVENTS" TABLE TO ENSURE PROPER DATA QUALITY --
-CREATE TABLE fact_usage_events_cleaned AS
 SELECT
 -- EVENT ID --	
 	UPPER(TRIM(event_id)) AS event_id,
     
 -- USER ID --
-	TRIM(UPPER(
-		CASE
-		  WHEN TRIM(user_id) LIKE 'USR-%'
-			THEN CONCAT('U1', SUBSTRING(TRIM(user_id), 7))
-		  ELSE TRIM(user_id) END))  
-	AS user_id,
+	ROW_NUMBER() OVER (ORDER BY user_id) AS user_id,
+    user_id AS old_user_id,
 
 -- EVENT TYPE --
 	LOWER(event_type) as event_type,
@@ -59,26 +49,23 @@ FROM nexloom_analytics.fact_usage_events;
 
 -- CREATING A DIMENSION TABLE FOR EVENT TYPES --
 
-CREATE TABLE dim_event_usage AS 
+CREATE VIEW dim_event_usage AS 
 SELECT DISTINCT event_type
 FROM fact_usage_events ;
 
-DROP TABLE dim_event_usage; 
-
 -- CREATING A DIMENSION TABLE FOR DEVICE TYPES --
 
-CREATE TABLE dim_devicetypes AS 
+CREATE VIEW dim_devicetypes AS 
 SELECT DISTINCT device_type
 FROM fact_usage_events 
 WHERE device_type <> '';
 
-DROP TABLE dim_devicetypes; 
-
 -- CREATING A DIMENSION TABLE FOR BROWSER TYPES --
 
-CREATE TABLE dim_browser AS 
+CREATE VIEW dim_browser AS 
 SELECT DISTINCT browser
 FROM fact_usage_events 
 WHERE browser <> '';
+
 
 
