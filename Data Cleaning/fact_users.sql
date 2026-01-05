@@ -4,17 +4,12 @@ SELECT * FROM fact_users;
                                   #################################################### CLEAN FACT TABLE ####################################################
 					
 -- CLEANING THE "USERS" TABLE TO ENSURE PROPER DATA QUALITY --
-CREATE TABLE fact_users_cleaned AS
+CREATE VIEW fact_users_cleaned AS
 SELECT 
 
     /* USER ID */
-    TRIM(UPPER(
-        CASE 
-            WHEN TRIM(user_id) LIKE 'USR-%'
-                THEN CONCAT('U1', SUBSTRING(TRIM(user_id), 7))
-            ELSE TRIM(user_id)
-        END
-    )) AS user_id,
+	ROW_NUMBER() OVER (ORDER BY user_id) AS user_id,
+    user_id AS old_user_id,
 
     /* FIRST NAME */
     CONCAT(
@@ -137,8 +132,17 @@ SELECT
     END AS consent_marketing,
 
     /* CREATED AT */
-    created_at AS signup_date
+    created_at AS signup_date,
 
+-- NEW AGE GROUP COLUMN --- 
+	CASE 
+		WHEN fact_users.age IS NULL OR TRIM(fact_users.age) = '' OR fact_users.age IN ('unknown','Unknown','N/A') THEN 'Unknown'
+        WHEN fact_users.age BETWEEN 5 AND 18 THEN 'Under 18'
+        WHEN fact_users.age BETWEEN 13 AND 19 THEN '13-19'
+        WHEN fact_users.age BETWEEN 20 AND 39 THEN '20-39' 
+        WHEN fact_users.age BETWEEN 40 AND 64 THEN '40-64'
+        WHEN fact_users.age >= 65 THEN '65+' ELSE 'Unknown' 
+        END AS age_group
 
 FROM fact_users;
 
@@ -146,13 +150,13 @@ FROM fact_users;
 
 -- CREATING A DIMENSION TABLE FOR ACQUISITION CHANNELS --
 
-CREATE TABLE dim_acqchannels_users AS 
+CREATE VIEW dim_acqchannels AS 
 SELECT DISTINCT acquisition_channel
 FROM fact_users ;
 
 -- CREATING A DIMENSION TABLE FOR MARKET CAMPAIGNS --
 
-CREATE TABLE dim_marketing_campaign AS
+CREATE VIEW dim_marketing_campaign AS
 SELECT DISTINCT 
     UPPER(TRIM(marketing_campaign)) AS marketing_campaign
 FROM fact_users
@@ -163,14 +167,14 @@ WHERE marketing_campaign IS NOT NULL
 
 -- CREATING A DIMENSION TABLE FOR DEVICE OPERATING SYSTEMS --
 
-CREATE TABLE dim_deviceos_users AS
+CREATE VIEW dim_deviceos AS
 SELECT DISTINCT device_os
 FROM fact_users
 WHERE device_os <> 'Unknown';
 
 -- CREATING A DIMENSION TABLE FOR APP VERSIONS --
       
-CREATE TABLE dim_appversion_users AS
+CREATE VIEW dim_appversion AS
 SELECT DISTINCT 
     REPLACE(app_version_at_signup, 'v', '') AS app_version_at_signup 
 FROM fact_users
@@ -178,6 +182,7 @@ ORDER BY app_version_at_signup DESC;
 
 -- CREATING A DIMENSION TABLE FOR JOB ROLES --
 
-CREATE TABLE dim_roles_users AS
+CREATE VIEW dim_roles AS
 SELECT DISTINCT job_role
 FROM fact_users;
+
