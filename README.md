@@ -23,13 +23,13 @@ Without a unified analytical view, teams struggle to pinpoint whether churn is d
 --
 
 
-### Approach
+## Approach
 - Data-Driven: Decisions supported by metrics like churn rate, DAU/MAU, retention cohorts
 - User-Centric: Focus on user lifecycle and experience
 - Scalable: Relational data model supporting future growth
 - Maintainable: Clean SQL transformations and documented assumptions
 
-### Technical Stack
+## Technical Stack
 - Database: MySQL (MySQL Workbench)
 - Analytics & Visualization: Power BI, DAX
 - Data Format: CSV (raw → cleaned → modeled)
